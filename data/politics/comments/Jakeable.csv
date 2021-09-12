@@ -1,0 +1,746 @@
+subreddit,body
+modnews,"If you select that it breaks a community rule, do the pills change to have each report option for that community, or is it still a dropdown like it is now?"
+AskReddit,You can email [contact@reddit.com](mailto:contact@reddit.com) for help.
+RedditOpenSource,"It looks like it's open sourced [here](https://github.com/reddit-archive/reddit/wiki/reddit-install-script-for-Ubuntu) and is using the same Ubuntu setup as reddit
+
+Edit: and it looks like it [costs them at least $50/month](https://www.patreon.com/SaidIt) to operate"
+RedditOpenSource,"The reddit install script provided in the repository is the fastest way to get it set up, so if you plan on running it on something else besides a VM it will require significant time and effort to reconfigure. 
+
+Reddit's [install guide](https://github.com/reddit-archive/reddit/wiki/reddit-install-script-for-Ubuntu) mentions a minimum of 4GB of RAM for local use, but you'll likely need much more for a production server. 
+
+For what it's worth, I think there will be a non-trivial amount of maintenance involved with running a reddit server. The code base is older and not entirely documented, so be prepared to run into many stumbling blocks if you plan to use this."
+RedditOpenSource,"It would be very hard to install reddit on Heroku, not just because of Ubuntu, but also because of the other dependencies it has (databases, task queues, other background processes, etc.). Plus with the amount of resources it needs to run (RAM, CPU, etc) it wouldn't be cost effective to use Heroku"
+ideasfortheadmins,">Admins decided to disable this and don't really see any valid reasons.
+
+See [this post](https://www.reddit.com/r/changelog/comments/a74eor/we_disabled_the_view_count_feature/)"
+AskReddit,https://www.reddit.com/report
+ideasfortheadmins,"You can preemptively block people on new reddit
+
+[https://www.reddit.com/settings/messaging](https://www.reddit.com/settings/messaging)"
+modnews,Happy cake day!
+AskReddit,Please do not post email addresses publicly. PM it to the user instead if you need them to have it.
+AskReddit,Yes
+AskReddit,Moderating isn't 100% serious business so we're ok with being silly here :)
+AskReddit,We're actually not that understaffed at the moment. We function best with around 27 to 30 moderators.
+AskReddit,"As the post mentions, we do not make exceptions to the requirements."
+AskReddit,"That's something we would notice when reviewing your application, and it would likely result in us not choosing you."
+AskReddit,If you send us a message we can consider adding something to your application.
+AskReddit,You're welcome.
+AskReddit,None that I can think of.
+AskReddit,"Sorry, it has to be from an account that meets all of the requirements."
+AskReddit,"Sorry, you won't be able to apply from an account that is less than 1 year old."
+AskReddit,We check if you're banned before we let you fill out the application.
+AskReddit,We prefer text based answers as it helps us gauge your communication skills.
+AskReddit,"I don't think we would be able to accommodate that, sorry."
+AskReddit,There's always next year!
+AskReddit,[Send us a message](https://www.reddit.com/message/compose?to=%2Fr%2FAskReddit) and we can consider adding something to your application.
+AskReddit,There is not. You have to apply from an account that meets all of the requirements.
+AskReddit,You can still apply as long as you meet the requirements
+AskReddit,"Please try clearing your cookies and doing it again. If that still doesn't work, please [send us](https://www.reddit.com/message/compose?to=%2Fr%2FAskReddit) a screenshot of the error."
+AskReddit,"Please try clearing your cookies and doing it again. If that still doesn't work, please [send us](https://www.reddit.com/message/compose?to=%2Fr%2FAskReddit) a screenshot of the error."
+AskReddit,"Please try clearing your cookies and doing it again. If that still doesn't work, please [send us](https://www.reddit.com/message/compose?to=%2Fr%2FAskReddit) a screenshot of the error."
+AskReddit,"Please try clearing your cookies and doing it again. If that still doesn't work, please [send us](https://www.reddit.com/message/compose?to=%2Fr%2FAskReddit) a screenshot of the error."
+AskReddit,"Sorry, we don't make exceptions to the requirements."
+AskReddit,We’re definitely in need of more moderators from that time zone!
+AskReddit,There’s always next year!
+AskReddit,"Although the bot can seem harsh, it generally makes the same decisions a human would. We get a fair number of post appeals in modmail, and most of them are not approved as the bot was correct."
+AskReddit,We prefer 18+ users since 18+ content can and does get posted here.
+AskReddit,Somewhere in that timeframe. It depends on when we have spare time to process them.
+AskReddit,We expect you to moderate from whatever account you apply from.
+AskReddit,"Not to rain on your parade, but...
+
+>[Breaking News, Megathreads, and Mod Posts are exempt from rule 1 and 2 as they serve a separate purpose to the sub compared to regular posts.](https://old.reddit.com/r/AskReddit/wiki/index#wiki_--breaking_news.2C_megathreads.2C_and_mod_posts--)"
+AskReddit,I'm like 98% sure someone tried that on us once
+AskReddit,"The application link is in the post, feel free to fill it out!"
+AskReddit,Try clearing your cookies for the website and then logging in again.
+AskReddit,"can confirm. I've heard ""oh my brother/sister/boyfriend/girlfriend/child/dog typed that, not me"" in response to ban messages too many times now."
+AskReddit,"It's not a ton of work, it's just clicking buttons and typing responses. If you aren't active as a moderator, we would ask you to step down."
+AskReddit,The primary function of moderators is to create and enforce the [subreddit rules](/r/askreddit/about/rules). We also do other things like answer user questions in modmail and create visual styling for the community.
+AskReddit,"Technically there is, but we do expect you to be active as a moderator."
+AskReddit,Unfortunately you will not be able to submit an application then
+AskReddit,Banned users can still subscribe to subreddits that they're banned from
+AskReddit,You have to apply with an account that meets the requirements.
+AskReddit,"As the post indicates, it's a volunteer position."
+AskReddit,Yup
+superstore,"Ah fair enough, I glossed over that part of your comment."
+superstore,What about Doug Judy?
+ideasfortheadmins,"There is a hacky workaround that accomplishes this (but I do agree that this should be added as a real feature). On old reddit, enter the subreddit as `u_<username>` and it will add that user to the multi."
+redditdev,"Reddit is closed source now, so you can’t contribute to its codebase anymore."
+AskReddit,"Please do not ping specific mods to report other users. Use the report button, and a moderator will review it within a few hours."
+AskReddit,Unfortunately u/TheJackal8 is not available. Please leave a message after the tone.
+AskCaption,Haha no problem!
+redesign,"Even a subreddit setting to disable reports on AutoModerator content would be useful. In most subreddits, there’s no reason for users to report AutoModerator content."
+modnews,"If AutoMod can take action on its own comments now, it would be nice if it could ignore reports on its own comments."
+redditdev,[Here](http://imgur.com/a/X29hi) are some of the admin tools from the open source version of reddit.
+announcements,I feel the need... the need for feed
+ModSupport,Yeah it’s been slow and buggy across the board this weekend
+ideasfortheadmins,This is a feature of Reddit premium
+redditdev,"There's no way to get historical active user/subscriber data from the API. If the admins store that information somewhere else, you might be able to get a data dump from them."
+ideasfortheadmins,"There are a few options here:
+
+- Hide every single post you see using the hide button (not very ideal)
+- Enable the ""don't show me submissions after I've upvoted them"" and ""don't show me submissions after I've downvoted them"" settings in your preferences (accessible from old reddit on desktop) and vote on submissions 
+- Use the ""best"" sort on your frontpage and it should hide at least some of the posts you've seen already.
+
+I use the second two options personally and it has resulted in more content appearing on my frontpage."
+changelog,">You can see what that would look like [here](https://i.redd.it/r2eqncs9avs21.png).
+
+\/u\/r\/reddit.com is my favorite user :P"
+announcements,How do you feel about packing sand in 2-dimensional containers?
+modnews,"Is ""subscribed"" changing to ""joined"" or something else on new.reddit? "
+redditdev,Reddit makes it hard to send bulk messages to prevent spam. An alternative to this might be to create an applet on IFTTT to send a notification on every new post and share it with users of your subreddit. 
+modnews,The built in rules functions were never tied to a wiki on new reddit or old reddit. 
+apple,"You can turn this off in settings 
+
+Settings>Wallet & Apple Pay>Double-Click Side Button"
+ModSupport,"That's why you have to add the ""#2"" to the end. It causes AutoModerator to parse it as two separate things instead of overwriting one. 
+
+&#x200B;
+
+An example condition that will only fire on posts containing ""a"" and ""b"" is:
+
+&#x200B;
+
+    title (includes): ""a""
+    title#2 (includes): ""b""
+    comment: Title contained 'a' and 'b'
+
+&#x200B;"
+ModSupport,">Unfortunately automod doesn't like to check for 2 substrings in a title afaik
+
+AutoMod can check for 2 (or more) things  like this:
+
+    title: ""term 1""
+    title#2: ""term 2""
+    action: ...
+
+&#x200B;"
+redditdev,"I think the admins  did not provide an endpoint to opt into quarantined subreddits for a reason. They want people to read the warning before viewing the quarantined subreddit, and by providing an endpoint they can't be guaranteed that app developers or third party clients will provide this warning. Additionally, it would go against their intentions if someone could create a script to opt users into all known quarantined subreddits. "
+ideasfortheadmins,You might like the “rising” sort. It’s a good split between new and popular. 
+DunderMifflin,It’s on the list! You can’t make fun of it
+aww,How does one go about meeting a sloth?
+DunderMifflin,Stanley! Wake up! It’s pretzel day!
+politics,"It was a misclick on our part. As far as I can tell, this post was never actually removed (just incorrectly tagged).  "
+redditdev,"Good point, it's possible that this has been fixed since reddit went closed source. "
+redditdev,Double check that you're using the `pip3` command to install praw instead of just `pip` (the distinction is important as pip will install praw for python 2.7). 
+redditdev,">403 ""OAuth token app is not enabled for this request"".
+
+This error message might mean that the endpoint is only enabled for certain OAuth applications (likely apps owned by reddit like the reddit mobile apps, or the reddit redesign).
+
+&#x200B;"
+redditdev,"AutoModerator removes block quotes with this code:
+
+     if self.ignore_blockquotes:
+         body = '\n'.join(
+             line for line in body.splitlines()
+             if not line.startswith('>') and 
+             len(line) > 0)
+
+In other words, it goes line by line over the body of a comment, and if it doesn't start with "">"" it adds it to the outgoing `body` variable.
+
+[https://github.com/reddit-archive/reddit/blob/master/r2/r2/lib/automoderator.py#L1131](https://github.com/reddit-archive/reddit/blob/master/r2/r2/lib/automoderator.py#L1131)"
+ModSupport,I'm pretty sure that videos can't be uploaded to private subreddits
+thingsforants,"Bob Ance, Ance Auto Parts"
+ideasfortheadmins,"The requirement was to have commented or posted in r/thanosdidnothingwrong
+
+https://www.reddit.com/r/thanosdidnothingwrong/comments/8yg5o1/つ_つ_give_high_five_if_you_got_this_badge_つ_つ/e2ayiun/"
+AskReddit,Especially if it’s that account
+AskReddit,"Thank you Jackal, very cool!"
+AskReddit,Yes
+AskReddit,"Unfortunately applications are final once they are submitted. If you want to make any alterations after submitting, you can send us a modmail. "
+AskReddit,You'll have to apply from the account that meets the requirements. 
+AskReddit,The modqueue ranges from 0-300 items at a time (depending on if we have overnight coverage or not). We don't individually moderate every post unless it's reported to us through user reports/AutoModerator reporting. 
+AskReddit,Absolutely!
+AskReddit,This is correct 
+AskReddit,No u
+AskReddit,We've found new modmail to work better for r/AskReddit given the volume of mail that we receive. 
+AskReddit,Yup!
+AskReddit,">[Breaking News, Megathreads, and Mod Posts are exempt from rule 1 and 2 as they serve a separate purpose to the sub compared to regular posts.](https://www.reddit.com/r/AskReddit/wiki/index#wiki_--breaking_news.2C_megathreads.2C_and_mod_posts--)
+"
+AskReddit,There's always next year!
+AskReddit,We're willing to take mods from anywhere - just fill out the application in the post :) 
+AskReddit,You can apply as long as you are not currently banned from r/AskReddit. 
+AskReddit,...yes I guess you could say this
+AskReddit,"Because we're currently lacking coverage in that part of the world. We have a lot of US based moderators, and some scattered around the globe, but not enough in the Eastern Hemisphere. "
+AskReddit,Yeah it works out to about once per year. We receive so many applications that we generally don't have to do it more often than that. 
+AskReddit,There's always next year!
+AskReddit,Can I continue to send pics of my Shortables to you? 
+AskReddit,"https://en.wikipedia.org/wiki/Eastern_Hemisphere
+
+🤷‍♂️"
+AskReddit,You'd be surprised
+AskReddit,If that mod is u/-eDgAR- then yes. 
+AskReddit,No u
+AskReddit,"Sorry, your account has to be a year old to apply. "
+redditdev,"You're not setting the user-agent or authenticating on either of those requests, so you may be subject to different rate limits than the published rate limits. "
+AskReddit,Because of the dementors
+redditdev,"PRAW hasn't used `r.login()`/`r.submit()` for a while now. 
+
+[Here](https://praw.readthedocs.io/en/latest/getting_started/authentication.html) is the current way to authenticate, and [here](https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html?highlight=submit#praw.models.Subreddit.submit) is how to submit posts. "
+AskReddit,How many Stanley nickels is that? 
+redditdev,"They meant that deimorz doesn’t work for reddit anymore, not that he isn’t an active reddit user. "
+redesign,"[Modhub](https://i.imgur.com/YxNcKqD.png), you say? "
+modnews,"Beneath the recent conversations section, could you add a ""view all conversations"" button that links to the search for `participant:username`? "
+modnews,"The ""add a community"" button looks very nice :P "
+modnews,"Thanks! I don't think many of your API documents specifically mention whether a field is required or not, so it might not be ""broken"" necessarily. It's just harder to use an endpoint like this when it can be used to make reports to the help center in addition to reporting things to subreddit moderators. "
+modnews,"It would be great if we could specifically mark reports as helpful/not helpful instead of going off of previous mod actions. There are often times where people or report fairies report comments/posts and their specific reports aren't useful, but it still leads to a removal/set-flair/set-nsfw action by moderators. These reports could be marked as non-useful to curb bad reports instead of skewing their actionability rate. 
+
+It would also be great if we could get some additional sorting and filtering options in the mod queue/other mod views. Some that come to mind are: 
+
+- Sort by number of user reports
+- Hide AutoModerator/bot reports (i.e. only show user reports)
+- Sort by actionability rate of the reporter
+- Sort by the time that the report was made (right now, reports on older content might never get seen since it could be buried under several pages of newer items). "
+modnews,"> aside: mailto links can't be markdowned (you just put the email@example.com).
+
+I think he made this post using the fancy pants editor (since it renders fine in new.reddit). 
+
+"
+modnews,"2 questions about the new report form:
+
+- Could it be modified to allow mod.reddit.com links for harassment and all of the content fields? 
+- Could you provide details on how to use the /api/report endpoint to make reports to the help center? I can see all of the fields there, but I'm not sure which ones are required to route it to the right place. "
+answers,Pretty much
+answers,"Posts are archived after 6 months, at which point they cannot be voted on or commented on anymore. You won’t receive any notification or message that a post of yours has been archived. 
+
+Posts will stop showing up on your front page when they are over 24 hours old when using the best/hot sort. They can fall off sooner though if they don’t have many points compared to other posts. They can still show up on subreddit specific feeds, and will fall off those depending on how many posts a subreddit gets per day. "
+CreedThoughts,We need a new manager.
+AskReddit,Help I’m being impersonated
+AskReddit,cinnamon?
+AskReddit,qz12
+AskReddit,py2
+AskReddit,cinnamon 
+AskReddit,yp1
+redesign,"It also only shows 3 recent modmails, which isn't enough for some users."
+redesign,">Modmail Search: This is coming to y’all very soon, we are preparing for a launch next week!
+
+NICE! Will an API endpoint be released at the same time? 
+
+https://mod.reddit.com/mail/search 👀"
+funny,How can we be sure that it’s not an E?
+ideasfortheadmins,This is a feature of new modmail.
+redesign,"Haha thanks ❤️
+
+It’s also broken on Safari"
+ideasfortheadmins,If you add “?depth=1” to the end of the URL it will only show top level comments. 
+ideasfortheadmins,"There are 2 options under the menu. One will stop showing you recommendations from all subreddits, and one will stop showing you recommendations from a specific subreddit."
+redditdev,">Is this because the sender is a moderator? 
+
+Yes, if an account is a moderator, it will go to the ""Mod Discussion"" tab.
+
+>Is there any way around this, other than putting this bot under a new user?
+
+The best way around it would be to make a new account. There is a way you could work around this with AutoModerator, but it would be super messy. "
+redditdev,"At the moment there's no official way to upload pictures/videos through reddit's API. You'll have to do it using imgur/YouTube/etc., and link it in the comment."
+ideasfortheadmins,"If you click on the 3 dots menu, there’s a button that says “hide this subreddit” that should stop suggesting that subreddit to you. "
+DunderMifflin,It’s a newer template with even more zing and pep. 
+ideasfortheadmins,"The admins are [testing out poll posts](https://www.reddit.com/r/ethtrader/comments/9khml6/introducing_community_points_polls_an_experiment/) in r/EthTrader right now ([example](https://www.reddit.com/r/ethtrader/comments/9kllgc/what_should_rethtrader_community_points_be_called/)), so this feature may be released to other subreddits within a few months.  "
+ModSupport,">Something we've been talking about, but is likely a ways away is a way to automatically alert moderators when any of us take action within your subreddit and why.
+
+As a workaround for now, mod teams can use IFTTT and a modlog RSS feed to get alerts about admin-removed content. "
+DunderMifflin,"You know what they say, a mistake plus Keleven gets you home by 7. "
+ModSupport,"It looks like reddit was a little bit backed on on comment processing earlier. If I’m reading the graphs correctly, it looks like the issue has been resolved. 
+
+https://reddit.statuspage.io/"
+ThingsCutInHalfPorn,It’s not as big as a hockey rink but it’s still a good size. They use it for ice shows and they let guests skate on it. They can also put a floor over it to use the rink for other things. 
+nathanforyou,Guy who dispenses chili out of an oversized suit
+changelog,"Presumably so that when you can spend coins on other things, they have more pricing flexibility. "
+DunderMifflin,Jimothyception
+redesign,I'm also seeing this when I open reddit in Safari.
+mealtimevideos,I’m really hoping that the reason she left BA is to start her own YouTube channel or something. I’ll definitely miss her interactions with Brad but I think she could make great stuff on her own. 
+redesign,"If you guys are working on performance improvements for the redesign, and working on the modmail frontend, is there any chance that modmail could receive some performance improvements too? "
+redesign,"As a workaround for now, you can use AutoModerator to remove flair from any user that has an exclusive emoji in their user flair. "
+Showerthoughts,Also donate to sites like pushshift.io that archive all of Reddit. 
+Portlandia,"Season 5, Episode 3 - “Healthcare”"
+todayilearned,Wikipedia [says](https://en.wikipedia.org/wiki/Salty_and_Roselle) that Salty died in 2008 and Roselle died in 2011. 
+redesign,"I've noticed that the titles on mod-removed posts say ""\[deleted by user\]"" - is this new? "
+redesign,I don’t know off the top of my head - the PRAW documentation should be able to help you out though. 
+redditdev,"Very interesting! I had a hunch about this a few weeks ago since I was getting very weird search results, so I’m glad to hear that it’s a real thing. "
+redesign,If you’re trying to set flairs use [/r/<subreddit>/api/selectflair/](https://www.reddit.com/dev/api#POST_api_selectflair)  and send name (username) and flair\_template\_id. You can find the flair template id in the redesign’s flair editor. As long as the flair template has a css class listed in old Reddit’s flair selection page it will add the css class to the user’s flair. 
+Portlandia,You can have Matt Groening take Google to court over this. And maybe they’ll call Bart Ska-mpson as a witness again!
+redesign,"They added this to the API a few months ago - just look for endpoints in the API docs that end in ""\_v2"". "
+announcements,"In the event this passes, does Reddit have something in place to start filtering content, or would it have to block traffic from Europe?"
+AskReddit,You’re welcome. 
+ModSupport,"You have to set the subreddit’s spam filter to “all” for this to work
+
+From the AutoModerator wiki:
+
+> Approval actions will only be performed on items that need to be approved to change their state. That is, only items that were automatically removed by reddit's spam-filter, or reported items (as long as the rule includes a reports: check as mentioned above)."
+ideasfortheadmins,Flairs can be reordered in the redesign. 
+politics,"https://www.wired.com/story/tell-when-someone-else-tweets-from-realdonaldtrump/
+
+It's possible that more than one person has access to his account."
+changelog,How will this affect a subreddit's gilded listing and the reddit gold daily goal?
+changelog,"I saw that you guys added new fields to /api/report, presumably for this. What fields are necessary to make help center reports via API? "
+InternetIsBeautiful,The NYTimes wrote a [great article](https://www.nytimes.com/interactive/2016/05/15/nyregion/new-york-mass-graves-hart-island.html) a few years ago about the state of Hart Island and the stories of some of the people buried on it. Definitely worth a read to get more context about how people ended up there. 
+changelog,Awesome! One other pattern that should be added is mod.reddit.com links. 
+changelog,Could you expand the pattern for the spam report reasons to allow for user profile links? Sometimes it makes more sense to link the whole account rather than a specific post. 
+redesign,"Instead of defaulting to relevance or new, I think it should default to whatever sort you're viewing a subreddit in (e.g. if you're viewing the top posts of a subreddit, the search should be sorted by top posts). "
+redesign,"Earlier this year underlining was supported [by accident](https://www.reddit.com/r/redesign/comments/8jw028/look_at_those_fancy_pants_an_update_on_the_fancy/dzwkpd0/?context=3) on reddit. 
+
+"
+funny,[No this](https://i.imgur.com/e58WYZP.png)
+flask,"DigitalOcean has published a few solid tutorials on how to deploy Flask applications on DO:
+
+https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uwsgi-and-nginx-on-ubuntu-16-04
+
+https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04"
+ModSupport,r/MobileWeb is the subreddit for the mobile website
+AskReddit,It's best to avoid posting actual parts of email addresses in the event that they use the same username on other websites. 
+modnews,"Ah ha, this was it! I made the flair available for everyone and it works for now. Hopefully they fix this soon. "
+redesign,It is! Look at the [flair API endpoints](https://www.reddit.com/dev/api#section_flair) that end in `_v2`. You can also look for `flair_template_id` in the API docs for other flair endpoints that support the new flairs. 
+modnews,"I flaired it myself, yes. AutoMod did leave a comment at the time of submission but did not flair. 
+
+Here’s an example of a recent, untouched post that should be flaired: https://www.reddit.com/r/AskReddit/comments/95eir3/seriouswhat_will_be_the_effects_of_hating_your/"
+modnews,Thanks for looking into this! I just checked the `template_id` and it is correct and referring to a post flair. You're welcome to poke at r/AskReddit's AutoMod config if that helps at all.
+modnews,"This is the condition I'm using. It worked when using `set flair: [""text"", ""css class""]`, but no longer works with `template_id`.
+
+    # Serious Thread Flair
+    type: submission
+    title (includes): [""[serious]"", ""(serious)""]
+    ~title#3: [term1, term2]
+    ~title#2 (regex): [""term2"", ""term4?"", ""term5""]
+    set_flair: 
+        template_id: 54ea6bda-dcf0-11e2-9548-12313b0c8c59
+    priority: 115
+    comment: |
+        **Attention! [Serious] Tag Notice**...
+    
+
+Examples of missed threads that were manually flaired:
+
+* [https://www.reddit.com/r/AskReddit/comments/95dvg9/serious\_whats\_the\_most\_unexplained\_thing\_you\_have/](https://www.reddit.com/r/AskReddit/comments/95dvg9/serious_whats_the_most_unexplained_thing_you_have/)
+* https://www.reddit.com/r/AskReddit/comments/95dv7e/serious_lifesavers_of_reddit/
+"
+AutoModerator,Yup thanks! Wasn’t sure if anyone was looking into it since it was an edit. 
+AutoModerator,"I was able to save an AutoModerator configuration that uses `template_id`, but it doesn't seem to be flairing anything now. Did something break? "
+modnews,"Just started showing up for me!
+
+Edit: it stopped showing up, and now AutoMod isn't flairing anything that uses `template_id`"
+portugaltheman,Is there a copy of this anywhere for people who missed the livestream?
+AskReddit,Pls no ban sir
+redditdev,"It isn’t possible to get historical voting data from the reddit API, unfortunately. "
+redditdev,"Unless it’s changed in the future, all post fullnames will start with `t3_`
+
+https://www.reddit.com/dev/api#fullnames"
+modnews,It would also be cool if mods could get page view stats for specific wiki pages. 
+vsauce,It might be related to the [YouTube subscriber purge of 2016](https://variety.com/2016/digital/news/youtube-subscriber-count-drop-bug-1201805710/) .
+redesign,Will modmail be better integrated into the new site? By this I mean will it eventually load within the page like the rest of the views do in lieu of reloading the full page?
+changelog,"They added widgets to the API docs a few weeks ago
+
+https://www.reddit.com/r/redesign/comments/8l5k5a/52118_release_notes_remembering_the_state_of/
+
+
+https://www.reddit.com/dev/api#section_widgets"
+ModSupport,"Probably because you’re sending your messages to the wrong place. You have to send messages to /r/reddit.com, not /r/announcements, if you want a response. "
+DesirePath,I’ve also seen these to prevent vehicles from traveling down trails. 
+redesign,my bad
+redesign,I almost wish they were using unsigned numbers just to see what a ridiculously large number of messages looks like haha. 
+redesign,"Yeah, this comment did it. Very weird. "
+redditdev,"If you iterate over the bot's comments, you can check if `comment.banned_by` is not `None`. If a comment was removed, `comment.banned_by` will be a string that is the username of the mod that removed it or ""true"" (meaning removed by spam filter or reddit admins).
+
+For example:
+
+    for comment in reddit.user.me().comments.new(limit=None): # limit can be changed to a quantity < 1000
+        if comment.banned_by is not None:
+            # handle comment removal. eg:
+            print(""comment "" + comment.id + "" was removed by "" + comment.banned_by)"
+redditdev,"It looks like there are two possible values for the `edited` field \- either a double or False. If edited is False, it will be represented as 0 when you cast it from a boolean to an int, which is causing your negative number issue. So check to make sure that `edited` is not false prior to doing the math here to avoid this issue. "
+redditdev,Try using `comment.created_utc` instead of `comment.created`. 
+redesign,"I don't think there's a way to get rid of it right now. It might be a good idea for a setting when they release the settings page, though."
+redditdev,"It looks like neither the new desktop site nor the API respect `include_over_18` unless you have the [""include not safe for work (NSFW) search results in searches""](https://www.reddit.com/prefs#search_include_over_18) setting selected. It's worth noting that `include_over_18` is [not in the API docs](https://www.reddit.com/dev/api#GET_search), so this may be intentional."
+ideasfortheadmins,"You should consider crossposting this to r/redesign. The admins are very active there, and would probably be interested in this. "
+redesign,Thanks for looking into this!
+redesign,"It’s occasionally happened in other subreddits (maybe 1 in 50 attempts), but nowhere near as frequently as in AskReddit."
+ideasfortheadmins,"This kind of exists, but it's a little fragmented. For reddit Gold users, there is an option to highlight new comments since the last time you visited a comment feed. For everyone, you can sort a thread by new to see the newest comments appear at the top of the page. "
+redesign,They're [working on a fix now](https://www.reddit.com/r/redesign/comments/8o2kxn/enough_with_the_fucking_welcome_popup/e00dylj/) that should be deployed by Monday!
+redesign,">Did you know that less than 1/3rd of traffic to subreddits comes in via desktop web where CSS is available? 
+
+Out of this group, is their a sizable percentage that overrides CSS with gold stylings or the disable CSS setting? "
+Punny,I think they do for their breakfast sandwiches. 
+redditdev,Sounds good! Hopefully it was just an API bug that’s fixed now. 
+redditdev,"Try deleting the post again from the desktop site and running the test again. Right now it’s looking like it was only removed and not deleted, but it’s possible that there is an error with the /del endpoint (or there was an error when you ran the test last). "
+redditdev,"Moderators can remove a post, which basically hides it from different reddit listings. Users can delete their own posts, which will hide them from reddit listings, and change the author name to ""[deleted]"". 
+
+Removed posts are still affected by the thing that finds already submitted links, while deleted posts are not affected by this. "
+redesign,Well that’s a bummer. I hope you guys will reconsider this. 
+redditdev,"Are you sure you're deleting it and not just removing it? If that submission was deleted the username would've been replaced by ""\[deleted\]""."
+ModSupport,"It seems like suggested sort only works when a post is clicked on and viewed in the Lightbox. If it's opened in a new tab, or accessed by permalink, it doesn't use the suggested sort. "
+redditdev,See what u/bboe said [here](https://www.reddit.com/r/redditdev/comments/8nashm/comment/dzu5kwn)! If you use `limit=None` it will keep going until everything is gone. 
+redditdev,Ah good to know. 
+redditdev,It looks like https://example.com was already submitted in the subreddit you tested in - https://www.reddit.com/r/test121212/comments/8n95qx/test_submission/
+redditdev,"PRAW will handle all pagination for you. If you request 10,000 items for example, it will keep getting posts from r/all until all posts have been retrieved. I just tried doing `hot(limit=10000)`, and it retrieved 8115 items from reddit. "
+redditdev,"You can use `hot(limit=1000)` \(or any number between 1 and 1000\). You can request up to 1000 items from a listing on reddit, but reddit won't always return 1000 items."
+redditdev,"Streams in PRAW are meant for new posts or comments that were recently submitted to a subreddit, not for finding the top items in a subreddit. To iterate over the hot items in r/all, you would use: `for submission in reddit.subreddit('all').hot()`."
+redesign,Header widgets would be really cool 
+redesign,"Yes, this. Functionally they're very similar but I think a lot of subreddits have clearly defined uses for announcement banners versus sticky posts. "
+redesign,">Reddit Live entry point \(in progress\): Reddit Live is an excellent product and when there is breaking news we often feature a live thread on the top of the home feed. This week, we are adding in the functionality so that live threads can be featured.
+
+It would also be cool if mods could also feature specific threads \(live or otherwise\) as a banner on the homepage of their subreddits. A lot of subreddits do this with CSS hacks right now, which makes me think it would be a well\-used feature on the redesign. I know mods can edit the menu bar with links and dropdown menus, but that doesn't grab attention in the same way that a banner can.
+
+On the topic of live threads, it would be cool if there was a way to embed them in a widget. I think a good number of subreddits could find a lot of value in putting them in the sidebar. Many subreddits feature news or updates in old.reddit sidebars as it is, but this would be an easy way to continually update a subreddit without having to edit a plaintext or CSS widget."
+redditdev,I don't think PRAW supports anything related to reddit chat right now since there are no official API endpoints for chat on reddit currently.
+ModSupport,"Yes, but subreddits like yours generally have to be marked as NSFW. If they're not, the admins will likely tell you to turn on that setting, or turn it back on for you. "
+ModSupport,"It looks like that subreddit has image/video uploading disabled. It's possible that some users get around this by using private subreddits that don't have the 18\+ setting checked. They use their private subs to host images/videos, and then they post those links in other subreddits. "
+ModSupport,"Unless it's changed recently, reddit does not host images for NSFW subreddits. "
+redditdev,"Take a look at [this endpoint](https://www.reddit.com/dev/api#POST_api_friend). An example call to this endpoint in Python, including the authorization required to access this endpoint, is shown below.
+
+    import requests
+    
+    # config
+    user_agent = """"
+    username = """"
+    password = """"
+    client_id = """"
+    client_secret = """"
+    username = """" # user to add
+    subreddit = """" # subreddit to invite to
+    permissions = [] # a valid permissions string (e.g. [""+posts"", ""+flair""], or ""+all"")
+    
+    # get access_token
+    client_auth = requests.auth.HTTPBasicAuth(client_id, client_secret)
+    post_data = {""grant_type"": ""password"", ""username"": username, ""password"": password}
+    headers = {""User-Agent"": user_agent}
+    response = requests.post(""https://www.reddit.com/api/v1/access_token"", auth=client_auth, data=post_data, headers=headers)
+    try:
+        bot_auth = response.json()['access_token']
+    except Exception as e:
+        print(""Error: "")
+        print(response.text)
+    
+    # make API call to add moderator
+    bearer = ""bearer "" + bot_auth
+    headers = {""Authorization"": bearer, ""User-Agent"": user_agent}
+    post_data = {""api_type"": ""json"", ""name"": username, ""permissions"": permissions, ""type"": ""moderator_invite""}
+    url = ""https://oauth.reddit.com/r/"" + subreddit + ""/api/friend""
+    response = requests.post(url, data=post_data, headers=headers)
+    print(response.text)
+
+Edit: It's also available [here](https://pastebin.com/VuQLXEcd) as a Pastebin since reddit code formatting can be annoying."
+redditdev,Error 415 is returned on `config/AutoModerator` when text that does not meet AutoModerator's formatting requirements is provided for the body of the wiki page.
+ModSupport,"The spam filter can be weird sometimes, and some posts can be removed for seemingly no reason. "
+ModSupport,Posts that show up in the modqueue as removed by no moderator were removed by the sitewide spam filter. Whether you chose to approve or remove these is up to you.
+redesign,"Could you clarify what makes a user a ""new user"" for the new submit time validation? "
+redesign,"Go to [your preferences](/prefs), and select ""I would like to beta test features for reddit"". Refresh the page, and another option \(""Use the redesign as my default experience""\) will be listed just below that. Select that and you will have the redesign.
+
+Alternatively, you can go to [new.reddit.com](https://new.reddit.com) when you want to use the redesigned site."
+MyNameIsEarl,[Here](https://www.reddit.com/r/IAmA/comments/1njddc/comment/ccj3sft)!
+MyNameIsEarl,For sure. At least the creator of the show shared how it would end so we have some level of closure. 
+MyNameIsEarl,"Sorry, bad wording on my part. Hulu put all of the old seasons on Hulu, but as far as I know no one has committed to filming another season. "
+MyNameIsEarl,"[Hulu picked it up recently](https://www.reddit.com/r/MyNameIsEarl/comments/8iqyxo/available_on_hulu/), so I don't think Netflix will be able to pick it up :\("
+redditdev,It’s not that bad! Just poke around with inspect element and over time it’ll come to you. 
+redditdev,"Sure, I found it a while back using the Web Inspector on Safari. I used the ""Timelines"" tab, and clicked the record button to see all of the requests the page made."
+redditdev,I don't think this is a documented endpoint. It's used to populate the list of moderated subreddits on the new profile pages. The biggest downside to this is that they could remove or rename it at anytime.
+redditdev,"I don't think that PRAW officially has a way of getting this information. You can do something like this, though:
+
+    import praw
+    
+    reddit = praw.reddit(...)
+    user = ""spez""
+    path = ""/user/{user}/moderated_subreddits"".format(user=user)
+    response = reddit.get(path)
+    
+    for sub in response[""data""]:
+        print(sub[""sr""])
+
+In your specific use case, it would look similar to this:
+
+    reddit = praw.Reddit(...)
+    user = ""keynan""
+    
+    def get_subs():
+        sub_list=[]
+        path = ""/user/{user}/moderated_subreddits"".format(user=user)
+        response = reddit.get(path)
+        for sub in response[""data""]:
+            sub_list.append(sub[""sr""])
+        return sub_list"
+redesign,Is the ~underline~ supposed to exist? If so it should be added to the fancypants editor.
+redditdev,"I don't know about the first two properties, but ""header mouseover text"" is the value for `header_title`.  "
+ModSupport,You could use your subreddit's wiki to hold data like this. A lot of subreddits put longer documents in their wikis. 
+redditdev,"Praw (and reddit in general) does not have a built in way to search comments. You can check out [pushshift's API](https://github.com/pushshift/api), though. It's a third party tool that lets you search comments (and a whole lot more). "
+redditdev,"It's found at https://www.reddit.com/r/SUBREDDIT/about.json. If you parse the json, the URL is found at `json[""data""][""header_img""]`. 
+
+Using praw, you can get it with `reddit.subreddit('SUBREDDIT').header_img`"
+redditdev,"Try changing `f.write(item.author + ""\n"")` to `f.write(str(item.author) + ""\n"")`. You have to add the `str()` outside of `item.author` so that python knows to convert a Redditor object into a string."
+redditdev,That bot detector sounds like a really useful feature. How accurate is it right now?
+NoStupidQuestions,"Although you are correct that moderators can hide the score, that setting [only applies to comments](https://www.reddit.com/r/modnews/comments/1dd0xw/moderators_new_subreddit_feature_comment_scores/) and not to posts. The hiding of scores on posts is a built-in feature of reddit and is not controllable by moderators. "
+ModSupport,This is also true on the redesigned website. 
+redditdev,"PRAW can't do this, but you can look at [pushshift's API](https://github.com/pushshift/api). It can search for reddit comments in a specific time range. "
+ideasfortheadmins,"redd.com is already owned and is being used by another company, so this isn’t possible. "
+redditrequest,"It shows up like [this](https://i.imgur.com/dFh45Yr.png) in the redesign. That means that drama/flaming/accusations/off topic posts are encouraged, right? "
+redditdev,"[This tutorial](https://www.reddit.com/r/redditdev/comments/19t48f/learning_reddits_code_journal_2_admin_status_one/) might be useful. The last time I installed a local reddit instance, I'm pretty sure it worked for me. "
+portugaltheman,[This playlist](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DWUbOQi4OiTx4) on Spotify is a pretty good place to start
+portugaltheman,Lol gotta love technology 
+portugaltheman,I'm really digging the background animations
+portugaltheman,The complimented Creep in a T\-Shirt really well
+politics,"Emojis aren't allowed in titles
+
+[https://www.reddit.com/r/politics/wiki/index#wiki\_do\_not\_create\_your\_own\_title](https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title)"
+redditdev,"I'm pretty sure the only way you can monetize is if you have permission from reddit. 
+
+From the [reddit API wiki page](https://www.reddit.com/wiki/api):
+
+>If your intended usage is commercial, you’ll need approval from us \(either by filling out the API terms form or emailing [api@reddit.com](mailto:api@reddit.com). Use of the API is considered ""commercial"" if you are earning money from it, including, but not limited to in\-app advertising, in\-app purchases or you intend to learn from the data and repackage for sale. Open source use is generally considered non\-commercial. "
+ideasfortheadmins,There should be a button that will remember you want to view the desktop site under the hamburger menu. On my phone it’s located [here](https://i.redd.it/lbuw4vt3xpr01.jpg) and I imagine it’s located somewhere similar on the iPad. 
+redditdev,"Bah thanks, linking on mobile = no fun. "
+politics,"I think the number is low right now since these are ""confirmed"" accounts. They may be less confident that other rings of accounts are affiliated with Russia, and don't want to release them in the event that they're not Russian. "
+redditdev,"It’s probably because they [disabled the old search stack](https://www.reddit.com/r/announcements/comments/8bb85p/reddits_2017_transparency_report_and_suspect/dx5cu9e/?context=3), as [previously announced](https://www.reddit.com/r/redditdev/comments/7tuto5/update_to_search_api/)."
+announcements,"[Here](https://gist.githubusercontent.com/Jakeable/d92867024a72aba87ba630e10599e0f1/raw/a8706e257ad106b0cfd18f16749d00624fd4524b/users.json) is a .json for anyone that wants all of the data without having to scrape reddit. In the interest of keeping the file \(somewhat\) small, it only contains select fields, but it has all of the permalinks so that data can be loaded if needed. "
+announcements,"They said in the post that these accounts have all been banned from reddit. If all of the accounts can't participate on reddit anymore, this condition will never do anything. "
+announcements,You should consider making all of the upvotes/downvotes that these accounts made public so we can see what other aspects of reddit they affected. 
+beta,">Ability to tag items to make them easier to find \(e.g. ""Gym"", ""Mechanic Advice"" etc\)
+
+This is already a feature for reddit Gold users 
+
+[https://www.reddit.com/gold/about#save\-categories](https://www.reddit.com/gold/about#save-categories)"
+redditdev,"It’s a reddit feature
+
+https://www.reddit.com/r/announcements/comments/293oqs/new_reddit_features_controversial_indicator_for/"
+redesign,Thanks for looking into this!
+redesign,">CM allows links to contain titles like [text](link ""title"")
+
+
+I'm pretty sure that Snudown supported this, and still allowed for spaces in the link. I tried testing `[message the mods](https://www.reddit.com/message/compose?to=/r/askreddit&subject=help me post is broken ""click here"")` on the old site and it parsed fine. I really hope you support spaces in links, as they're an important feature for moderators (indirectly). AutoModerator cannot encode spaces like that currently, so if moderators want to generate pre-filled URLs for users, we have to use the space delimited versions which aren't compatible with this."
+redesign,You dropped this: ^TM
+redesign,"I saw a button in the modqueue earlier, ""Mark as OC"", is this coming soon? Could you share any details about this?"
+AskReddit,"AutoModerator was acting up last night. We think it's caught up for the most part, but some posts still slipped through. "
+CircleofTrust,Is this the so called Jackal Shire?
+AskReddit,What is the meaning of life?
+AskReddit,Terribly sorry to disappoint. Check out [this thread](http://i0.kym-cdn.com/entries/icons/original/000/016/212/manning.png) instead. 
+AskReddit,"r/AskReddit was receiving an abnormally amount of messages asking why features on reddit were broken, so we (the mods) made a post to inform people. "
+AskReddit,It looks like it's open again
+AskReddit,"It's reddit's April Fools Day social experiment
+
+https://www.reddit.com/r/blog/comments/890upp/circle/"
+AskReddit,"It's reddit's April Fools Day social experiment
+
+https://www.reddit.com/r/blog/comments/890upp/circle/
+"
+CircleofTrust,Smh you betrayed us. 
+AskReddit,We've been keeping an eye on [redditstatus](https://reddit.statuspage.io/)
+AskReddit,"We were receiving a lot of messages asking why comments weren't showing up, so we figured it was best to make an announcement so everyone was aware. "
+AskReddit,It's currently private until they fix all of the issues. 
+AskReddit,"Nah, the issue stems from the [April Fool's Day prank](/r/blog/comments/890upp/circle/), which destroyed some processes apparently. "
+AskReddit,">Mod Posts are exempt from rule 1 and 2 as they serve a separate purpose to the sub compared to regular posts.
+
+[[Source]](https://www.reddit.com/r/AskReddit/wiki/index#wiki_--breaking_news.2C_megathreads.2C_and_mod_posts--)"
+AskReddit,"It’s part of Reddit’s April Fools Day social experiment, which is currently broken. "
+AskReddit,"It’s for the April Fools Day prank, which is currently broken. "
+AskReddit,It looks like their comment queues are still a little bit backed up. 
+AskReddit,"We're in a slack group with some admins, but we've been getting most of our info from [redditstatus](https://reddit.statuspage.io). "
+AskReddit,"It appears to be fixed for the most part, but there may still be a few kinks in the system. "
+AskReddit,"I have no idea. I hope it will, but they haven't said for sure. "
+AskReddit,"Yeah, it was causing a lot of issues so they had to make it private. "
+AskReddit,I heard it was some [new hacker](https://media.giphy.com/media/8ENbhs81En5Kw/giphy.gif). 
+AskReddit,">Mod Posts are exempt from rule 1 and 2 as they serve a separate purpose to the sub compared to regular posts.
+
+[[Source]](https://www.reddit.com/r/AskReddit/wiki/index#wiki_--breaking_news.2C_megathreads.2C_and_mod_posts--)"
+AskReddit,"Thanks, I updated the link in the post. "
+AskReddit,"Yeah, it's likely related to this issue. If people's votes aren't being counted, reddit doesn't know what's actually rising right now. "
+AskReddit,Probably not. 
+AskReddit,"It’s due to the [April Fool’s Day prank](/r/circleoftrust), which broke several processes that they use. "
+AskReddit,Have you tried RedditStatusStatus?
+AskReddit,An unintentional joke I guess. 
+AskReddit,Yup! That’s likely related to this issue. 
+AskReddit,"I’m pretty sure they were tinkering with it for r/circleoftruth. That subreddit uses upvotes to represent the number of people in a circle, which is a little different than the traditional upvote. "
+AskReddit,Nah the users are the real MVPs :)
+AskReddit,Reddit is catching up on old comments slowly but surely. 
+AskReddit,awwwwww
+AskReddit,I see you ಠ_ಠ
+AskReddit,Go listen to [some music](https://www.youtube.com/watch?v=GLsCR2RMBak)
+AskReddit,Karma's the most important thing this site has to offer /s
+redesign,Might as well rename this sub to r/beta2. 
+announcements,Thanks! 
+announcements,I just looked at all 3 views and they appeared to be collapsed for me. Unless there's a fourth secret view or something. 
+announcements,"The four biggest things that are missing for me are: 
+
+- the lack of wiki
+- the view I've selected for a subreddit/modqueue/my homepage/etc. doesn't stay that way.
+- comments aren't expanded by default in the mod queue
+- r/subreddit/about/banned doesn't support `?user=username`
+
+I know the last two are pretty minor things, but they make a pretty big difference to me when moderating on old reddit versus new reddit. 
+
+Edit: Also, the search feature doesn't function as well on the redesign as it does on old reddit. Things like `author:username` don't work. "
+announcements,"I've started using the redesign (for everything except moderation), and I have to say it provides a great browsing experience. Good work so far!"
+blog,"I only trust ovals.
+
+r/ovalOfTrust"
+CircleofTrust,"I'm more of an oval kinda guy myself.
+
+r/ovalOfTrust"
+AskReddit,"We've spent weeks crafting the finest user experience for the users of r/AskReddit. On behalf of our 24 person engineering team, our 18 person customer experience team and our visionary, u/-eDgAR-, we hope you enjoy your time on AssCredit!"
+AskReddit,"It's just a prank, bro. "
+AskReddit,"Darn, you caught me. "
+AskReddit,"https://i.imgur.com/hmErKRE.png
+
+nice."
+AskReddit,Nah it was $3.50 exactly
+AskReddit,o?
+AskReddit,It depends on who's asking. 
+AskReddit,"Sexxxers of sexxxit, sex sex sex sex sex?"
+AskReddit,no u
+AskReddit,Would something like [this](/r/ooer) work better? 
+AskReddit,"They still live on (in desktop, at least)
+
+[yams.](/yam)
+
+"
+AskReddit,There's always next year ;\) 
+AskReddit,$3.50
+AskReddit,I enjoy a nice but joke
+AskReddit,I enjoy a nice but joke. 
+AskReddit,"They were removed for being spam accounts, not for not answering the question."
+AskReddit,test 2
+AskReddit,Test bot
+AskReddit,"Test comment, please ignore."
+AskReddit,test
+AskReddit,>!spoiler!<
+ModSupport,"If you think someone is abusing the report button, you can always send a message to /r/reddit.com with some example links. They’re usually able to stop these people from abusing the report button any further. "
+beta,Feedback related to the redesign belongs in r/redesign. The designers are active there and can respond to any criticism you have there. 
+redditdev,"As a workaround for now, you could use AutoModerator to report comments made by the bot. "
+AskReddit,test
+AskReddit,test
+modnews,"CSS wise you can’t do anything right now since CSS is not available in the redesign yet. You can use their new structured styles to make it look similar to your old style. If it’s a basic theme, you can make it look pretty similar (see r/AskReddit on the new site vs. the old site, for example). "
+modnews,"Users won’t be forced to switch to the redesign (at this time), but old stylings won’t carry over to the redesign. "
+beta,"Last night around 39 thousand users were accidentally given access. They removed access once they realized the mistake. 
+
+https://www.reddit.com/r/shittychangelog/comments/82jufo/reddit_change_loadtesting_the_redesign_by_turning/"
+redesign,Will there be a way for AutoModerator to set flairs using the new flair templates? 
+blackmagicfuckery,Someone made [a website](https://redv.co) that lets you download videos from reddit. 
+redesign,What if the admins meant that as an invitation for us to give praise to the widgets :P
+redesign,I didn’t know humans worked at reddit. I could’ve sworn everyone on reddit was a bot. 
+redesign,Advertisers can see the number of upvotes/downvotes a post receives. Some may chose to use it as a feedback mechanism. 
+redesign,"Advertisers can see the number of upvotes and downvotes a post receives in their ad dashboard as a feedback mechanism. 
+
+https://www.reddithelp.com/en/categories/advertising/managing-your-ads/viewing-reddit-ads-dashboard
+
+"
+beta,Then don’t upvote the post before viewing it. 
+beta,"If you go back to the hot sort, but also turn on the “hide content I’ve upvoted” and “hide content I’ve downvoted” preferences it might be close to what you’re looking for. "
+redesign,"If you set the alpha up be your default experience, you can change it back to regular reddit in your [preferences](/prefs). It’s the second checkbox in the “beta options” category. "
+redesign,If you comment [here](https://www.reddit.com/r/redesign/comments/7xv3qt/seeing_duplicate_rules_widgets_comment_here/) they’ll remove the duplicate for you. 
+redesign,"It’s probably on a feature backlog. As with some of the other parts of the old site, not everything has been ported over yet. "
+redesign,I’m guessing that there will be better documentation once the dimensions and other parameters are finalized. It doesn’t make a lot of sense to overdocument everything now when any/all of it could change before the general release. 
+redesign,They’ve said in older posts that the wiki will be ported over sometime in the future. 
+ideasfortheadmins,"On the other hand, something like this might let shadowbanned users that they’re shadowbanned. They might not want shadowbanned users knowing that. "
+redesign,"Until they add this feature to the alpha, you can use the sidebar of the old site to filter out subreddits. Any subreddit you filtered out on the old site shouldn’t show up on the alpha version of r/all. "
+redesign,"Maybe instead of increasing the character limit, links and markdown characters shouldn’t count towards the limit. In other words, only count characters visible in the sidebar to an end user. "
+changelog,"Awesome, thanks for clarifying that!"
+changelog,"I just tried it and got [this](https://i.imgur.com/ki70hhO.png), which made me thing it is a way to guess emails. 
+
+I just tried it again with my verified email address, and I'm still getting this error. "
+changelog,It looks like there might be a rate limit for password resets. But I don't think that's enough since this can basically confirm someone's identity. This is one of those cases where you'd rather be safe than sorry. 
+changelog,"You should consider accepting password reset input no matter what the email input is. Although unlikely, it seems like this could be used to guess someone else's email (especially if they have information about their username already). "
+redesign,"I don’t think people are leaving Facebook since they can’t stand the design, though. It’s more for social reasons than design. "
+redesign,You can’t make changes yet since css is disabled. 
+redesign,"It seems like it’s becoming a little noisy, especially when every other post is about white space. Opening it up would result in a lot of low quality posts getting upvoted, like in r/beta. "
+redesign,See [this](https://www.reddit.com/r/redesign/comments/7p3iv9/comment/dsf7ie4)
+redesign,Did you make your calendar public on Google Calendars?
+redesign,"The new site has completely changed all of the css classes and id’s of elements, which means that old css won’t work on the new site. "
+redesign,I don't think markdown mode on the alpha (or on the old site) supports underlining. 
+redditdev,Script apps can get any comment that the account has access to. 
+redesign,"They’ve said that the wiki is on their roadmap, but it won’t be included in the initial release. "
+redesign,"I’m pretty sure this feature hasn’t been ported over yet. Until it is, you’ll have to make subreddits using the old site. "
+redditdev,Reddit post IDs are sequential base36 numbers. So you could start at the first known post ID (`87`) and iterate up through the newest post and check all of them for self text. Alternatively you could scrape data from [this Google BigQuery database](https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/) which would allow you to filter posts down to what you need. 
+redditdev,This isn’t an API issue - the URLs that you’re using in the comments are filtered by the site spam filter.  Link shorteners and redirectors (like `https://www.google.com//url?q=`) are commonly banned by reddit since they can be used to circumvent the spam filter. Switch the URLs to a direct link to the site and most of your comments should show up. 
+AskReddit,[yams](/yam)
+redesign,What are the optimal dimensions or ratio for the banner hover image?
+redesign,It means they probably haven’t added this feature to the new site yet. 
+announcements,"Will moderators have the ability to reply to people who make reports ever? I think it would benefit both moderators and users if there was two-way communication to let people know what's useful and what isn't. Even a way to indicate a ""helpful"" vs. ""non-helpful"" report would be cool."
+changelog,No problem! Thanks for looking into this. 
+changelog,"I did try searching “question” or “test” before and after each “question?” search, and those tests didn’t fail. This issue has also been occurring for several months now. "
+changelog,"Yeah I just tested it again and still encountered this error.
+
+[Safari](https://gfycat.com/SerpentineAcademicChipmunk)
+
+[Reddit for iOS](https://gfycat.com/VelvetyThriftyHamster)
+
+
+I tested it on these browsers and still encountered the error: 
+
+- Safari 11.0.2 (logged in and logged out, no extensions either time)
+
+- Chrome (logged out, all extensions disabled)
+
+- Reddit for iOS v4.2.0.301113 (logged in and anonymous mode)"
+changelog,"That is correct, sorry for the miscommunication. "
+changelog,"I understand that, but I don't think it's the best user experience if regular users (who might not understand or care about escape characters) have to escape a question mark to search something if they're using reddit's frontend. "
+changelog,"I made that search URL using the search bar in the sidebar of a subreddit. I understand escaping it if this was an API call, but I think if searching with a question mark from the front end it should be auto escaped. 
+
+>Hmm yeah that looks like a bug. I'll take a look
+
+Thanks, I appreciate it. "
+changelog,"Something I've noticed with the new search is that certain characters don't work. Queries with question marks ([example](https://www.reddit.com/r/politics/search?q=What%27s+behind+rich+people+pretending+to+be+self-made%3F&restrict_sr=on)) don't seem to work. Is this an intentional design choice?
+
+I've also noticed that the `site` parameter doesn't seem to work as expected anymore. For example [this search for `site:yahoo.com`](https://www.reddit.com/search?q=site%3Ayahoo.com&sort=new&restrict_sr=&t=all) also returns results for other sites that contain `yahoo.com` in the url. 
+
+I don't think these queries are anything fancy or special, I just want them to work properly :("
+changelog,https://i.imgur.com/xgQdUT8.jpg
+changelog,You could always make a multireddit for subreddits you like to read from /new
+redditdev,"From the footer of the desktop site:
+
+
+> REDDIT and the ALIEN Logo are registered trademarks of reddit inc.
+
+Licensing info for Snoo can be found [here](https://www.reddit.com/wiki/licensing/)."
+redesign,"r/politics has this rule to prevent single users from dominating the new queue when a story breaks. We receive a lot of reposts when stories break, and users flooding the new queue when this happens doesn't help.
+
+I've seen other subreddits have rules similar to this to discourage karmawhores from dumping lots of posts into their subreddits. "
+AskReddit,"As far as I can tell, the first post to r/AskReddit was [this post](https://www.reddit.com/r/AskReddit/comments/66jwa/test/) - a link to gmail.com titled ""test"".
+
+The next oldest posts are: 
+
+- [All of the old 'Ask Reddit' posts](https://www.reddit.com/r/AskReddit/comments/66kkt/all_of_the_old_ask_reddit_posts/)
+- [Star Wars guide to the Presidential Candidates](https://www.reddit.com/r/AskReddit/comments/66kyb/star_wars_guide_to_the_presidential_candidates/)
+- [Ask ask reddit: do I still have to put ask reddit first?](https://www.reddit.com/r/AskReddit/comments/66l54/ask_ask_reddit_do_i_still_have_to_put_ask_reddit/) (this is the first self post to r/AskReddit, as well as the first real question)
+- [Ask Reddit: Why do I feel hungry after eating veggies?](https://www.reddit.com/r/AskReddit/comments/66mqm/ask_reddit_why_do_i_feel_hungry_after_eating/)
+- [Is posting an announcment of a new subreddit in a related subreddit appropriate?](http://www.reddit.com/r/AskReddit/comments/66mxm/is_posting_an_announcment_of_a_new_subreddit_in_a/)"
+redesign,"Fwiw, the intent behind this suggestion isn't spam prevention - as you said there are more effective ways to handle that. Some subreddits have specific rules that only allow x posts per day/minute/etc., and the post requirements would help subreddits enforce this rule. "
+redesign,"Thanks! We'll probably end up changing it to something slightly better since the text is slightly fuzzy, and slightly different than the current logo. "
+redesign,"Oh my bad, I totally misunderstood that. The ""ask"" uses Georgia (italicized), and the ""reddit"" uses Roboto. "
+redesign,"I don't think that this is the current behavior. Right now it only shows up as dark green on the subreddit itself, not on your front-page. "
+redesign,I don’t think we changed the default font in the redesign 
+redesign,Thanks! We tried to make the redesign theme match the current theme as best we could. 
+AskReddit,I have spotted [the Jackal](https://media.giphy.com/media/tpitZW0o3cCYg/giphy.gif) at our party.
+redesign,"It would be nice if thumbnails could be disabled for a subreddit, too. It’s currently a subreddit setting on the non-redesigned website, but it’d be nice if the redesign could respect that setting. "
+shittykickstarters,"This is a limitation of reddit and not specifically this subreddit, unfortunately. 
+
+https://www.reddit.com/r/changelog/comments/25kvjo/reddit_change_the_logic_for_archiving_posts_has/"
+politics,"Reddit is rewriting the frontend of their site and the desktop site will look similar to the official app in the future. 
+
+https://redditblog.com/2017/11/08/an-update-on-reddits-redesign/"
+politics,"The last time we got a breakdown of users by platform, the percentage of mobile users hovered around 50% (I don't remember the exact percentage). "
+AskReddit,Because r/AskReddit doesn't want to become Yahoo Answers 2
+AskReddit,"> P.S. Maybe the mods can refund whoever gave me the gold, I’m sorry to bother you like that.
+
+Unfortunately the mods of r/AskReddit have no control over gold. You can try to [message the admins](https://www.reddit.com/message/compose?to=/r/reddit.com) for help, though. "
+AskReddit,I have successfully evaded this ban. Checkmate mods!!!!
+misc,"If you haven't done so already, you should consider posting this to r/whatisthisthing too. "
+ExpectationVsReality,They recently launched an [online used gear site](https://www.rei.com/used) that is basically an online garage sale.
+redditdev,"You won't need to change the scope for this - ""*"" represents all available scopes. 
+
+Edit: I misread your post - make sure you end up using an OAuth app type that supports user authentication. "
+blog,Unreal. Now I'm wondering why this graph was never shared with users. 
+blog,Nothing like a reddit blog post at midnight EST
+redesign,"> That's a cool way to use automod. So y'all have a whitelist of domains, but also a list where automod will offer guidance on blacklist domains? Having submit validations link out to the specific rule could be a light-weight way to help out to do this. I appreciate your thoughts on that.
+
+Basically we have a specific rejection notice for some domains, and a general rejection notice for everything else. Something like facebook might receive a notice saying that social media links aren't allowed in r/politics, while websiteIjustStarted2minutesAgo.com would receive the general notice since it's a rarely submitted/unknown domain.
+
+The same behavior that we have now could be replicated by letting moderators set custom error messages for domains/groups of domains if they're not allowed in a subreddit. 
+
+>Agree that this would be nice, and also agree on the priority. Sharing lists between subreddits would be much simpler.
+
+Our reasoning behind this is that we want to be able to import/export these domains to our wiki pages and external tools for analysis. Although subreddit to subreddit transfers would be nice, it wouldn't work for all of the things we use it for. "
+beta,oh thank goodness - glad to see that reddit is finally catching up to other sites.
+beta,I hope you guys support smoke signals some day. Or maybe carrier pigeons. 
+redesign,"Another issue I've encountered is that the error message for subreddits with very long whitelists isn't very user friendly
+
+https://v.redd.it/oe9o3hvr3d301"
+redesign,"I'm pretty sure the upvote/downvote buttons on ads don't affect their rankings, but it is a metric that advertisers can use to gauge how the reddit community is reacting to their ads. 
+
+https://www.reddithelp.com/en/categories/advertising/managing-your-ads/traffic-and-reporting"
+redesign,"I like it! One thing that we've noticed so far is that the settings page loads slowly for subreddits with large amounts of whitelisted/blacklisted domains. It would also be nice if the domains could be collapsed when we're not actively editing them since it makes the page very long. 
+
+"

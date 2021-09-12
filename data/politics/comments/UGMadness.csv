@@ -1,0 +1,2659 @@
+subreddit,body
+gaming,I personally think it's so long it overstays its welcome tbh. The midgame can become mind bogglingly repetitive.
+shittyfoodporn,Sometimes I like the taste of tortilla more than chips tbh.
+hardware,"IBM had already conducted tests of 50GHz+ transistors back in the late 2000s, so it wasn't a crazy assumption that CPUs would scale that high in frequency in the near future."
+astralchain,"Hopefully, we get a 60fps mode for the sequel, it was the only stumbling point for me."
+hardware,"I might actually look into getting one of these. Looking to retire my Ryzen 1700 on my desktop to move it to a server and because it doesn't come with an integrated GPU I was looking to add a cheap graphics card but it's extra bulk that I really didn't want to add as many cases don't have space for a proper GPU. Alternatively, I'd also want to add an extra SATA controller card on the lone PCIe slot (motherboard is ITX). I don't need an NVMe drive for this use so this device will be a good use for that otherwise unused port."
+Zoomies,My mum used to make the meals for our dog and she used to joke that we had a hair making machine that processed chicken breasts into hair.
+politics,To her voters they are.
+politics,"The worst thing is that she *knows* her tactic works. Just attack the person again and again and repeat ""radical liberal"" enough times to hammer in the idea that Warnock is a dirty commie."
+hardware,"I mean, the Xbox One S has like what, 1/3 the power of a GTX1060? And many of these cross gen titles are very CPU intensive. 
+
+I'm not getting my hopes very high but I still think it will be able to become playable at 1080p and maybe with 80% resolution scaling to hit 60fps."
+hardware,The game is going to be released on the Xbox/PS4 consoles so I imagine it will run just fine at 1080p medium or even medium-high settings on a 1060 equivalent card. Or at least that's what I'm telling myself so I don't spend $500 on a graphics card I won't use for any other game in the foreseeable future.
+hardware,"Just like with Ice Lake, IPC gains might be realised on the same node and power draw by reducing the frequency they operate at, so overall performance per watt improvements won't be very high even if IPC sees double-digit improvements as they appear to be on this new uarch."
+hardware,"They changed it on laptops for their Icelake parts onwards as it represented a new uarch and process node. I imagine they will do the same once 10nm arrives on desktop, whenever that is.
+
+If anything, the current naming scheme reduces confusion as it implies that these parts are still related in some way to the previous gen ones, which is true for the process node used."
+SuperMetroid,"The US and Japanese ROMs are exactly the same. That's why the US cartridge has an option to set Japanese captions.
+
+What he needs is an unheadered ROM."
+emulation,"That FPGA die is massive! I'm surprised it sells for as low as $220, these are highly specialised products and it's as big as a high end graphics card die."
+Roms,"I've been using these for years and they've been a pain to maintain, especially with adjusting the laser potentiometer and available mini DVD-Rs being progressively worse in quality as production shuts down.
+
+Finally got a GCLoader a few months ago and couldn't be happier. It instantly saved myself from all these headaches and the bulk of keeping around a stack of discs."
+emulation,VMWare Workstation supports 3D hardware acceleration so running XP games on a virtual machine can work quite well for the vast majority of contemporary applications. It recently also added support for integer scaling so you can run 1024x768 or 800x600 titles on a high resolution modern display without it looking like a stretchy and blurry mess.
+emulation,"Just a question, what are these hardware device ROMs? The graphics card BIOS?"
+hardware,I still own nearly all the processors of the PCs I've had over the years! The only one I've actually lost was a Phenom II X2 550 as it was my college dorm PC and didn't make the move with me when I graduated. From the Pentium II 350MHz of my family PC to the last CPU I decommissioned (an i5-2380P) before building my current PC. I plan on doing something similar someday.
+hardware,"I like LTT ""reviews"" for shiny new stuff because I don't need very precise data as there's no chance in hell I'll buy whatever is being ""reviewed"" anytime soon, I just want to see how it works and in that regard, Linus is alright in explaining and providing the gist of it. If I'm going to buy a product I'll go watch the 45-minute long chartfests of GamersNexus and Hardware Unboxed."
+hardware,"Ethereum has been ""moving"" to PoS for the past 3 years. Just like healthcare reform, it's one of those things that will always be ""2 weeks away"" in order to keep people hopeful but will never actually arrive as it will sink interest and demand from the very people they rely on keeping prices up, the miners and speculators."
+oneplus,"The camera is low end bottom tier and OnePlus has already stated the N100 will only get one major Android version update (to Android 11) despite shipping it with Android 10 months after 11's release.
+
+The low end SoC that's comes with the phone is really underpowered and running the phone at the advertised 90Hz refresh rate is a less than ideal experience.
+
+Pretty much the only positive aspect of the phone is the battery life and there are better options on the market for that on the same price segment."
+oneplus,Always has been
+hardware,"I use a 60Hz 4K monitor and a 144Hz 1080p one. It used to stutter a lot before the Windows 10 20H1 release earlier this year. I had to reduce the refresh rate to 120Hz to minimise the stutter as it was caused by the OS not having separate framebuffers for each monitor. They have been resolved with WDDM 2.7 and the corresponding graphics card drivers that make use of the new driver model, so you should have no issues with it.
+
+Make sure you have the higher refresh rate monitor as your primary monitor though, most apps will run at the same refresh rate as your primary monitor and if that one's 60Hz it will stutter as ir desyncs on a 144Hz screen, aside from defeating the purpose of a high refresh rate monitor in the first place. Web browsers and Electron based apps are the worst offenders of this, so if you want buttery smooth scrolling you have to set the 144Hz screen as primary."
+hardware,">Every time I want to upgrade my PC there’s one part that costs an outrageous amount of money.
+
+People will always have roughly the same amount of money for a new build and supply isn't uniform across all components. The cheaper some components are the more people will want to build a new PC and the more demand there will be for the components with lower supply."
+oneplus,"Oppo has always used Oneplus to gain a foothold in the West and now that they don't need the brand anymore they're kneecapping it in favour of actual, more profitable Oppo branded devices.
+
+The shift became apparent the moment the US shot down Huawei from the skies and an opening in the market became available."
+3DS,The Japanese release is more affordable but yeah still not easy to find.
+3DS,"That particular release comes with an English option too, so you don't have to worry about the language barrier."
+3DS,"Azure Striker Gunvolt: Striker Pack
+
+It's the Japanese cover which looks very different than the Western release."
+3DS,Only on PC :3c
+3DS,The Japanese logo is so much more cool looking!
+3DS,"It's a lifetime obsession \^\^"""
+3DS,"It's a Katsukitty board too! It was bought as a loose kit then installed by a local shop, they did a really good job with the mini USB port cutout and the board sits perfectly flush inside the case."
+3DS,It's not a viable method for speedrunning due to the CPU running faster than it should for non n3DS exclusive games and the image quality is very poor. It also doesn't support capturing in NTR mode. It's a nice stopgap but for archival gameplay footage or accurate timing you need an actual capture device.
+3DS,"Futari Wa PreCure - Splash Star Panpaka Game De Zekkouchou!
+
+It's a collection of minigames based on the PreCure franchise, got it as a throw in deal with other games but it's still pretty fun albeit easy, as it's targeted towards a younger audience."
+3DS,"It's a modded 3DS with a capture card, basically a module with a USB port that can output video to a PC. It's used for streaming and recording NDS/3DS game footage as these consoles have no official means to do so."
+Gamecube,"I'll look into it, thanks! Sucks that I would need another Raphnet adapter because they take so damn long to ship to where I live :("
+hardware,"I tried a S20 FE and the plastic back surprised me with how little it feels like plastic. It has a matte finish and it's really solidly mounted to the chassis so there's zero flex. Really reminded me of sandstone textured ceramics more than anything to do with plastic.
+
+I really wouldn't mind owning a phone with that material in the back, especially given I use cases anyways. Glossy polycarbonate can go die in a fire though."
+hardware,"He often gets sent high resolution scans from third parties of components that are beyond the budget of most people. All it takes is for someone who appreciates Buildzoid's work to also have access to a naked PCB of this thing, which isn't going to be easy but not impossible."
+Gamecube,Would you mind sharing the list of components that would have to be daisy chained? I don't think I would pay that much but there's a reasonable chance I already have some of the stuff needed so please do tell \^\^
+Gamecube,"If you have a Game Boy Player, then GameBoy Interface is a must. It improves image quality over the official disc significantly while being much more configurable. It allows you to apply gamma fixes, anamorphic widescreen options for playing GB/GBA games on modern widescreen LCDs with a GC-Video HDMI adapter, low latency modes for speedrunning, etc."
+politics,"I had an American worker living in China remark to me about the high number of ""African Americans"" in the country.
+
+We were in a city popular with actual African businesspeople."
+furry_irl,Approved
+hardware,"At this point the iPad Pro is just an iPad Air with a 120Hz screen and lidar. They really need to lower the price to something more realistic.
+
+But knowing Apple I'm not getting my hopes up."
+hardware,The people who genuinely love Apple or have used their products for so long that don't really consider alternatives aren't usually the kind of people who pay attention to consumer electronics to such a degree that they engage in technology related subreddits.
+hardware,"It's normal for companies to still work with each other years after they're separated, you don't get a new supply chain overnight and it's in fact in their best interest to keep each other afloat especially when a vertically integrated company breaks up and creates entities that don't compete directly with each other. AMD works with GlobalFoundries to this day despite it being spun off more than a decade ago. Keep in mind that most of these corporate restructuring decisions are made with financial considerations in mind and not because they hate each other."
+oneplus,Samsung has really got their software act together lately. Still not ideal as they continue to push their duplicated apps and their phones have a healthy amount of bloatware apps depending on the region but the commitment to 3 years of major updates is a huge selling point. Haven't bought a Samsung Android product since the Tab S2 but they're definitely at the top of my list for my next device.
+hardware,"I mean, it doesn't cost them much to launch a 6900XT as a gaming card in addition to its main professional/workstation use. It's a halo product that serves more of a PR role showcasing AMD's tech than a real commercially viable product.
+
+It's good for AMD to have it in their lineup even if it barely breaks even at $1000 and nobody can actually get one at MSRP due to extremely limited supply."
+politics,"Hi `waveduality`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqfap3/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/waveduality&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqfap3/-/?context=10000\))"
+politics,"Hi `PLLPLLPLL`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqfo61/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/PLLPLLPLL&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqfo61/-/?context=10000\))"
+politics,"Hi `sagarapher`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqfplf/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/sagarapher&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqfplf/-/?context=10000\))"
+politics,"Hi `juntawflo`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqg746/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/juntawflo&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqg746/-/?context=10000\))"
+politics,"Hi `sendokun`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqhhnv/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/sendokun&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqhhnv/-/?context=10000\))"
+politics,"Hi `Joyour66`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqhsrh/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/Joyour66&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqhsrh/-/?context=10000\))"
+politics,"Hi `Ezzy17`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqimmg/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/Ezzy17&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqimmg/-/?context=10000\))"
+politics,"Hi `49Gold`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqudbe/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/49Gold&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqudbe/-/?context=10000\))"
+politics,"Hi `chris-jjj`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqklzf/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/chris-jjj&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqklzf/-/?context=10000\))"
+politics,"Hi `theindependentonline`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqun5z/-/) has been removed for the following reason(s):
+
+* [Off-Topic](https://www.reddit.com/r/politics/wiki/index#wiki_the_.2Fr.2Fpolitics_on_topic_statement): All submissions to /r/politics need to be explicitly about **current US politics**.
+
+**If you have questions as to why your post has been removed, please see here: [Why was my post removed as Off-Topic?](https://www.reddit.com/r/politics/wiki/index#wiki_why_was_my_post_removed_as_off-topic.3F)**
+
+ 
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/theindependentonline&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqun5z/-/?context=10000\))"
+politics,"Hi `DangReadingRabbit`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqlr6x/-/) has been removed for the following reason(s):
+
+* Your headline must be comprised only of the **exact** copied and pasted headline of the article, with few exceptions - [see our rule here.](https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title)) **We recommend not using the Reddit 'suggest a title' as it may not give the exact title of the article.**
+
+* The ALL CAPS and 'Breaking' rule is applied **even when the actual title of the article is in all caps or contains the word 'Breaking'**. This rule may be applied to other single word declarative and/or sensational expressions, such as 'EXCLUSIVE:' or 'HOT:'. [click here for more details](/r/politics/wiki/index#wiki_do_not_create_your_own_title)
+
+
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/DangReadingRabbit&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqlr6x/-/?context=10000\))"
+politics,"Hi `phoebO398`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqmokb/-/) has been removed for the following reason(s):
+
+* Your headline must be comprised only of the **exact** copied and pasted headline of the article, with few exceptions - [see our rule here.](https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title)) **We recommend not using the Reddit 'suggest a title' as it may not give the exact title of the article.**
+
+* The ALL CAPS and 'Breaking' rule is applied **even when the actual title of the article is in all caps or contains the word 'Breaking'**. This rule may be applied to other single word declarative and/or sensational expressions, such as 'EXCLUSIVE:' or 'HOT:'. [click here for more details](/r/politics/wiki/index#wiki_do_not_create_your_own_title)
+
+
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/phoebO398&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqmokb/-/?context=10000\))"
+politics,"Hi `etherend`. Thank you for participating in /r/Politics. However, [your submission](https://old.reddit.com/r/politics/comments/jqnes5/-/) has been removed for the following reason(s):
+
+* Your headline must be comprised only of the **exact** copied and pasted headline of the article, with few exceptions - [see our rule here.](https://www.reddit.com/r/politics/wiki/index#wiki_do_not_create_your_own_title)) **We recommend not using the Reddit 'suggest a title' as it may not give the exact title of the article.**
+
+* The ALL CAPS and 'Breaking' rule is applied **even when the actual title of the article is in all caps or contains the word 'Breaking'**. This rule may be applied to other single word declarative and/or sensational expressions, such as 'EXCLUSIVE:' or 'HOT:'. [click here for more details](/r/politics/wiki/index#wiki_do_not_create_your_own_title)
+
+
+
+
+
+If you have any additional questions about this removal, please feel free to [message the moderators.](https://www.reddit.com/message/compose?to=/r/politics&subject=Question regarding the removal of this submission by /u/etherend&message=I have a question regarding the removal of this [submission.](https://old.reddit.com/r/politics/comments/jqnes5/-/?context=10000\))"
+hardware,But with actual useable hardware instead of a 900 MHz single core Celeron trying to run Windows Vista.
+politics,Nice
+politics,Nice
+politics,"We have added Automod exceptions for both upper and lowercase, including n i c e formatting. Your choice :)"
+furry_irl,[Source by Crunchy! (NSFW)](https://twitter.com/cruncholewd/status/1317684815269801984)
+politics,"If it means getting a democratic senator in West hecking Virginia then yes it's worth it. Republicans have shown time and time again that politics isn't about morals or having the best ideas, but numbers. If West Virginians think Manchin is the guy for the job, then let's give them Manchin."
+furry_irl,"Hello! Your [submission](https://i.redd.it/kimva0u81nw51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://v.redd.it/3ziqf5t44qw51) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/9tmlap9etxw51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+hardware,"The 5700XT didn't have raytracing capabilities, and that was a big feature in Nvidia's favour. What would anyone get a card that has similar performance at the same price when the competition has way more features?"
+Huawei,"I have the 4600H model and the CPU runs very cool indeed, even under load. I've never heard it spin up significantly outside my initial torture test I did shortly after buying it.
+
+Keep in mind that the iGPU on the Renoir CPUs are very low power, and the main power draw, the CPU cores themselves, aren't heavily taxed during gaming."
+Huawei,"I have a P9 and it got an update recently that applied the July 2020 Android security patch. It's nothing more than that.
+
+No new features are being added to these older phones anymore but they're still receiving security updates albeit intermittently. In any case you can see what each patch contains in the update page on your phone, there's a changelog displayed there before you confirm."
+DeathAndTaxesMTG,"Clique is insanely powerful with a Vial and Karakas too, more so than TNN wielding an equipment in many matchups such as control.
+
+The downside of the build was the heavy reliance on double blue mana costed cards, so the mana base is a bit constrained, you ideally need 12+ blue sources, which my list split into 4 fetchlands (and 1 basic Island), 4 Seachrome Coast and 4 Tundras, leaving no space for Ports. So that's a tradeoff you'll have to consider if you want to run these cards. Seachrome Coast might seem like an unorthodox choice but it's long been a good option for an untapped dual land that doesn't cost life like a shockland would, and I think it's still the best UW land around after Flooded Strand and Tundra for this deck."
+DeathAndTaxesMTG,"This is a list I used to run to some local success a bit ago. It was made for a different meta but I'm sure it will still be useful as a reference:
+
+https://www.mtggoldfish.com/deck/320049#paper
+
+I wouldn't run Geist anymore, but Standstill, TNN and Clique are still very powerful centerpieces of the deck and the main reasons you'd ever want to consider blue."
+furry_irl,"Hello! Your [submission](https://i.redd.it/l4zx144oa9v51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/9f0deqlimdv51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+politics,:stare2:
+politics,Florida Man does it again
+furry_irl,"Hello! Your [submission](https://i.redd.it/q9ycivke4nu51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+oneplus,Lots of high end devices already have multipoint support. My Sony WH-1000XM4 headphones are paired to 4 devices and it supports simultaneous connections to any two of them.
+hardware,"That's still huge for AMD given how much lower market share they have compared to Intel. This would essentially even the playing field.
+
+Another possibility would be that Intel is outsourcing to TSMC just their GPU manufacturing and keeping CPUs in house."
+awfuleverything,r/popping
+agedlikemilk,"They don't care about 2A even, they care about owning guns that's all. The 2A doesn't even say it guarantees the rights to privately own firearms, the original interpretation of the text for all intents and purposes has already been fulfilled by the establishment of state level National Guard units. The second amendment has been twisted and corrupted way beyond its original intent."
+furry_irl,"Hello! Your [submission](https://i.redd.it/klxtgq1alku51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/evqqkaodbau51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/1r9xdpmzw3u51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/xwn6vxf492t51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/elyi3yq054t51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+HHKB,I had a BT and ended up changing it to a Pro 2 Type-S because the issue was getting incredibly annoying to the point of unusability. What I suspect happened was that my desktop PC's Bluetooth antenna was too far away from the keyboard and the keyboard had signal issues. It never happened with my Android tablet when used side by side by comparison. Since the BT has a very long battery life with just two AAs while replacement dongles and modules have much higher power requirements that's my leading hypothesis.
+hardware,"From the article:
+> In a nutshell: The Intel Core i9-10885H has been found running 20 percent slower than expected in Dell Precision laptops, capping its clock speed at just 2.7GHz. Most likely down to the limited cooling in this entry-level Dell device, this is a reminder to consumers and professionals to investigate performance in laptops and PC builds as a whole before investing in them."
+magicTCG,"PRINT COUNTERSPELL, LIGHTNING BOLT AND SWORDS TO PLOWSHARES INTO THE FORMAT AND MAYBE THEN IT WILL ACQUIRE A SEMBLANCE OF INTERACTIVITY"
+magicTCG,I legit forgot Pioneer existed until I read your comment.
+politics,Because the list of approved domains arose from a need to tackle spam and that's its purpose. We are not content curators and honestly it's not in the userbase's best interests to have a bunch of anonymous moderators do that job.
+politics,"Hey there, I apologise if my answer was unsatisfactory, I just wanted to convey that the whitelist wasn't created as a content curation tool, and that the correct way to approach misinformation is by applying Reddit's sitewide policies and procedures regarding such content. 
+
+[The announcement for the whitelisting system](https://www.reddit.com/r/politics/comments/6r5q2s/announcement_rpolitics_is_moving_to_a_whitelist/) has a handy FAQ and explanation for the purpose of it as mainly an anti spam measure."
+politics,"Given the very limited visibility of such domains in the subreddit we trust the few users who happen to see them in the 'New' page to be able to exercise their best judgment when gauging the value and trustfulness of the content therein.
+
+We do have policies in place to deal with COVID-19 disinformation that align with Reddit's sitewide stance on the matter and we regularly act on their enforcement."
+politics,This isn't a measure we are currently taking into consideration.
+politics,"Hey there, another mod has already [given an answer to a similar question](https://old.reddit.com/r/politics/comments/j990w2/october_2020_metathread/g8iy184/)  earlier today:
+> Saying something like ""Who in their right mind cares that x got covid"" or ""I wouldn't care if x had a stroke"" or similar is basically just another way of saying "" I hope harm befalls x""
+
+> That's what we imply by 'extreme indifference', it's basically just other ways of letting everyone know how x deserves harm in someone's view.
+
+> If you're just indifferent to the situation, like you're commenting on something else entirely that's fine. It's not like we ever require people to say something similar to "" I hope x gets well soon, but I disagree with their policy/belief on this issue"". You can just talk about the issue.
+
+> We try to make our rules unambiguous and clear cut without complicated exceptions because there are more than enough rules and complexities to think about. Hopefully the totality of rules just amounts to ""as long as I'm showing basic decency, I won't ever have to worry about reading the rules"".
+
+> In my view, that's probably not exactly how it feels to some. It's not like we want muddy, unclear rules that feels like they're hard to understand. At the same time, we don't want a huge codified volume of rules that feels impenetrable."
+politics,"Weekly scheduled posts, AMAs and discussion threads need to be pinned because of the need for them to be visible during the time they're relevant for, which is what I assume you're referring to as a 'Megathread'. These weekly threads have a modest but dedicated community of users who are interested in them even if you feel they're not for you. Even if they're not breaking news, they're still valuable information and discussion for those who want it.
+
+Megathreads are a specific type of post we use to collate breaking news that would otherwise overwhelm the content in our frontpage and they take a pinned slot just like the others but aren't related."
+politics,"Hey there, there are a lot of subreddits that discuss politics from the viewpoint of specific ideologies and leanings, there's going to be some bias in all of them but feel free to reference them to learn from a variety of sources, here are some of them that you can get started with:
+
+* r/PoliticalDiscussion
+* r/Ask_Politics
+* [r/NeutralPolitics](https://www.reddit.com/r/NeutralPolitics)
+* [r/PoliticalScience](https://www.reddit.com/r/PoliticalScience)
+* [r/changemyview](https://www.reddit.com/r/changemyview)
+* [r/Moderatepolitics](https://www.reddit.com/r/Moderatepolitics)
+
+In general, please keep in mind that whatever perceived bias you might encounter is a reflection of the user demographics of the site as a whole."
+politics,"The Canadian flag shows correctly on the Reddit redesign, official mobile client and on any third party clients that pull their data from it. We will look into how to make that happen on Old Reddit, thanks for the feedback."
+politics,"Another mod has already [answered a similar question](https://www.reddit.com/r/politics/comments/j990w2/october_2020_metathread/g8ij2ys?utm_source=share&utm_medium=web2x&context=3) earlier today:
+
+>This  has come up a few times and we're certainly open to discussion, but as a  guiding principle, we generally try to avoid implementing rules that  have too much subjectivity involved. In the present case, are you saying  we should stop allowing articles only where a celebrity is opining on a  politician? If so, who are the people who we would tolerate an opinion  on politics from? Everyone else? Just politicians? If it's everyone  else, then how do we judge who is and isn't enough of a celebrity? If  it's just politicians, how do we decide whether someone is a politician  (eg. is it the standard we use for topicality, or is it a broader one  that includes superPAC heads and what not?), and how do we decide if a  celebrity who is also a political activist is speaking in their capacity  as a celebrity vs being a political activist?  
+>  
+>This  isn't to pour cold water on the idea, but it illustrates the kinds of  questions that come up whenever we change a rule. While there are  invariably situations where moderators have to make a call on something  that's potentially subjective, we generally try to avoid it where  possible, because otherwise we're opening ourselves up to a lot of  complaints in modmail and accusations of bias."
+furry_irl,"Hello! Your [submission](https://i.redd.it/awavq59jdes51.jpg) was removed for the following reasons:
+
+
+**All furry content must be relatable or a meme**
+
+Your submission was removed for not containing a clearly relatable or meme/joke context.
+
+* Pictures of products or language with vaguely furry innuendo. This includes products with vaguely furry names such as “Red Rocket”, “Dragon’s Milk”, etc. (post these to r/mildlyfurry !)
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_all_furry_content_must_be_relatable_or_a_meme).
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+leagueoflegends,"TSM has been been dead weight and an absolute waste of a slot every single Worlds.
+
+I know we should normally give props to the players for putting in their best effort and reaching the international stage is still an achievement, but not this team. I hope they all retire in shame. They've been the absolute worst representatives for the region for literally years and they've shown time and time again they don't give a fuck about improving as long as they can beat other kids in the domestic league."
+oneplus,"I'd say yes, it's priced very similarly (or barely above) to the Nord in many markets and spec for spec it's superior in almost every one. The only thing you lose is one cycle of software updates compared to the Nord but I think it's a worthwhile trade-off for a much more premium product."
+commandandconquer,"The world has never had a real use for helium before the advent of advanced cryogenics in the late 80s and 90s with the adoption of MRI machines, quantum computing, particle physics research and nuclear fusion research. The USSR had very little need for helium for most of its lifetime so it made sense they wouldn't think of distilling it during the process of natural gas purification. But if a military  need arose that required huge amounts of helium they would be capable of capturing the helium from their massive NG reserves."
+commandandconquer,"Russia has one of the biggest natural gas reserves in the world, and most commercial helium is obtained as a byproduct of natural gas extraction."
+furry_irl,"Hello! Your [submission](https://i.redd.it/qq9j8il2nbr51.jpg) was removed for the following reasons:
+
+
+**Furry_irl is a subreddit for furry memes**
+
+Your submission was removed because it was not relatable to furries or furry culture in some way. There must be a clear reference to furries, furry culture, or notable people or characters in the furry community.
+
+Posts need to stand on their own; **if the fact they are being posted to a furry subreddit is what makes them furry, or it needs a furry related title to give it furry context, they do not stand on their own.**
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_furry_irl_is_a_subreddit_for_furry_memes).
+
+
+
+
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,Click or tap on the image preview to load the full res version. Alternatively you can go to the source I pinned at the top of the comments. Cheers.
+transfurs,I have the original source to the artist's post pinned to the top of the comments section \^\^
+traaaaaaannnnnnnnnns,">So, who the hell are ya? Whats your story?
+
+I'm a chemical engineer and EU expat living in the Far East, small time speedrunner, MTG player and retro game connoisseur, and I have the Big Gæ.
+
+>Why do you want to mod [r/traa](https://www.reddit.com/r/traa/)?
+
+I really appreciate how wholesome the community is, and how helpful it was back when I needed it, so I would be grateful to be given the chance to give back to the community.
+
+>Do you have previous modding experience, or any other skills that would contribute to the sub?
+
+Yes, I currently mainly mod r/furry_irl, r/politics and r/worldnews, all of them with full permissions, among other subreddits. I have ample experience moderating subreddits and have a deep understanding of the sitewide guidelines and rules enforcement, plus Automod config. I also have extensive experience moderating Telegram groups.
+
+>What time zone are you in? and what are your active hours? (If possible, please answer your active times both from your time zone and from UTC. (Central? whats easier here) That will make it easier for us to compare!)
+
+UTC+8, active hours are usually 15:00 to 0:00 local time, so I guess 7:00 to 16:00 hours UTC.
+
+>How active are you on reddit, and how often do you think you will be able to perform mod duties?
+
+I peruse the site and do modqueue pretty much every day, plus taking care of modmail when available. I also do a lot of behind the scenes work such as coordinating policy and discussion among mods.
+
+>If you could improve the sub in one way, what would it be?
+
+This is a very complex question that I feel will only be answered once I'm more familiar with how things are behind the scene. Nothing outwardly concerning.
+
+>Got anything else that you think would help you offer unique perspectives to the team? (i.e. if you are disabled, a POC, you're from someplace we don't see represented much around here, you're religious, whatever!)
+
+I'm a furry I guess? Also POC, travel for a living, and currently work and live in underrepresented places from an LGBT+ perspective.
+
+>Did you read and answer all the questions? cause like, we probably wont go for ya if your application consists of ""throwing my hat into the ring!"". Ya gotta read things all good like.
+
+Aye
+
+>Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?
+
+Aye
+
+>Do you have at least 3 years experience in a non managerial position?
+
+Aye
+
+>What?
+
+I prefer not to reveal in a public comment.
+
+If there's anything else about me you want me to clarify or explain in more detail feel free to shoot me a DM."
+furry_irl,[Source @ErixaluArt on Twitter!](https://twitter.com/ErixaluArt)
+furry_irl,"Hello! Your [submission](https://i.redd.it/s003mrscd5r51.jpg) was removed for the following reasons:
+
+
+**All furry content must be relatable or a meme**
+
+Your submission was removed for not containing a clearly relatable or meme/joke context.
+
+* Furry artwork and merchandise with no other context, that normally wouldn't be considered a ""meme"". Examples include unedited comics that aren't memes, ref sheets, commissioned artwork of your fursona, group photos in a con, furry related decals on laptops/cars/etc., video game or phone screenshots, etc.
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_all_furry_content_must_be_relatable_or_a_meme).
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/r37w29b6lpq51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,Approved
+furry_irl,"Hello! Your [submission](https://i.redd.it/zimftqiswpq51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+politics,"And of course, the FCC is in cahoots with the ISPs so who knows what will come out of this:
+
+>As we previously reported, [FCC Chairman Ajit Pai](https://arstechnica.com/tech-policy/2020/09/ajit-pai-touted-false-broadband-data-despite-clear-signs-it-wasnt-accurate/) touted inaccurate data submitted by another ISP in order to claim that his deregulatory agenda sped up deployment, even though FCC staff had already flagged the data as likely being inaccurate."
+furry_irl,"Hello! Your [submission](https://i.imgur.com/fEIYwv8.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,[Source @kittbites! (NSFW)](https://twitter.com/kittbites/status/1310767821048119300)
+gatekeeping,"People in the late 80 weren't rich but had food on the table, a roof over their heads, a stable job and a secure social safety net. None of those are a given in post Soviet states nowadays, and in the depths of the economic depression of the mid to late 90s it was so much worse. This is not about politics or liking a historical figure."
+furry_irl,"[](#start_removal)
+
+[](#end_removal)"
+furry_irl,"Hello! Your [submission](https://i.redd.it/53rrzk3o4ep51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/uybrqb4l3fp51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+3DS,The 3DS has a 240p screen so it's among the worst devices you can watch videos from.
+furry_irl,Approved
+furry_irl,"Hello! Your [submission](https://i.redd.it/xvhrmaro46p51.png) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/wpy75my528o51.jpg) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+emulation,"Unless you use GB Interface, the regular GB Player software renders the game in 480i so most CRT filters would be inaccurate as scanlines wouldn't be visible."
+furry_irl,"Hello! Your [submission](https://i.redd.it/v46lwmnlown51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/kgzn5fan8zn51.gif) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/2y4lq0477yn51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://v.redd.it/20xazlrjizn51) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/az18f1hh61o51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/hva8nen00xn51.gif) was removed for the following reasons:
+
+
+**Furry_irl is a subreddit for furry memes**
+
+Your submission was removed because it was not relatable to furries or furry culture in some way. There must be a clear reference to furries, furry culture, or notable people or characters in the furry community.
+
+Posts need to stand on their own; **if the fact they are being posted to a furry subreddit is what makes them furry, or it needs a furry related title to give it furry context, they do not stand on their own.**
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_furry_irl_is_a_subreddit_for_furry_memes).
+
+* Photos or videos of animals doing things aren’t by themselves furry memes. If it goes on r/aww or r/animalsbeing[derps/bros/jerks], it doesn’t belong here.
+
+
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/z0lp4bm54xn51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/5loq40z1exn51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* “Anti-fur” bashing/hate posts. Yes, we know, furry haters bad
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+shittyfoodporn,"That's because for much of history, garlic was considered a food for the poor, so anyone who regularly ate garlic was considered to come from a lower class.
+
+The only exception being the British who simply hate eating food that has any flavour in it."
+shittyfoodporn,I thought those were fried eggs...
+commandandconquer,EA bad. OP worse.
+retrogaming,The White JP Saturn is legit one of the sexiest consoles ever released. The controller it came with is also amazing.
+retrogaming,"Yup, those are GBCs alright."
+3DS,You can run NDS and GBA games natively on any 3DS by using NDS Bootstrap and GBARunner. It does require homebrew access though.
+3DS,The VB does have a couple pretty good games. I think Nintendo is just embarrassed the library is so small and they'd just rather keep the console dead and buried.
+furry_irl,"Hello! Your [submission](https://i.redd.it/w3ydihpo29n51.jpg) was removed for the following reasons:
+
+
+**Furry_irl is a subreddit for furry memes**
+
+Your submission was removed because it was not relatable to furries or furry culture in some way. There must be a clear reference to furries, furry culture, or notable people or characters in the furry community.
+
+Posts need to stand on their own; **if the fact they are being posted to a furry subreddit is what makes them furry, or it needs a furry related title to give it furry context, they do not stand on their own.**
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_furry_irl_is_a_subreddit_for_furry_memes).
+
+
+
+
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/okowez4dvdn51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/t8ir7ra94en51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/rjhepytzken51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/iitx9b8uwfn51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,Approved
+furry_irl,"Hello! Your [submission](https://imgur.com/MdCkUWx.jpg) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+travel,"Pepper spray will do nothing as the cockpit is already locked at all times and always with someone present inside to prevent hijackers from seizing control of the aircraft.
+
+Hijackers usually threaten the lives of the passengers instead of crew to coerce the pilots into doing their bidding, pepper spray or firearms in the hands of the pilots will do nothing to stop that kind of behaviour. Pilots are already trained to give in to hijackers' demands if passenger lives are at risk, such as by diverting to an airport of the hijacker's choice, but they're also trained to not allow hijackers access to the cockpit no matter what happens."
+furry_irl,"Hello! Your [submission](https://i.redd.it/7cmwp01i13n51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/izyofrmgr0n51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+magicTCG,IIRC that was Urza's mecha suit thing that he used to invade Phyrexia with.
+furry_irl,I can't approve the post if you delete it immediately after. The mod team isn't always online 24/7.
+furry_irl,"Hello! Your [submission](https://i.redd.it/smzwh9pd4rm51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/a0fhapvr0lm51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/t8hhi255zmm51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/nm1h7eeuujm51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+space,"It occurs thousands of kilometres deep inside the planet and there's no way to get to extract them, much less ship back to earth."
+furry_irl,"Hello! Your [submission](https://i.redd.it/kzwxym9d4im51.png) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.imgur.com/2BSVwuw.jpg) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/i43vd20d8em51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/f2604xvy4fm51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+emulation,Is there any way to connect the sewing machine to a device that can run the emulator and have the emulator interact with the sewing machine?
+furry_irl,"Hello! Your [submission](https://i.imgur.com/b7pMtjQ.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+furry_irl,"Hello! Your [submission](https://i.redd.it/sptvxkuov7m51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/xuz0iskmf8m51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+politics,He's trying to rally the Evangelical base.
+furry_irl,Approved
+furry_irl,"Hello! Your [submission](https://i.redd.it/n4a7ct2594m51.jpg) was removed for the following reasons:
+
+
+**Furry_irl is a subreddit for furry memes**
+
+Your submission was removed because it was not relatable to furries or furry culture in some way. There must be a clear reference to furries, furry culture, or notable people or characters in the furry community.
+
+Posts need to stand on their own; **if the fact they are being posted to a furry subreddit is what makes them furry, or it needs a furry related title to give it furry context, they do not stand on their own.**
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_furry_irl_is_a_subreddit_for_furry_memes).
+
+
+
+
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/w2oj9gf2e4m51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/l2ap1fc9mzl51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/w3kbwnwg94m51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.imgur.com/rMBDkua.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+While your post may not belong here, it may fit better in /r/mildlyfurry.
+
+Please make sure you are familiar with that subreddit's rules before posting over there.
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://v.redd.it/gol33fu9gzl51) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/h28f82bt01m51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+hardware,"The 3090 is essentially a halo product like the RTX Titan was, and nobody should seriously be considering it for any reasonable build."
+furry_irl,[Source @letodoesart on FA](https://www.furaffinity.net/view/38115350/)
+furry_irl,"Hello! Your [submission](https://i.redd.it/7s6tbgej9pl51.jpg) was removed for the following reasons:
+
+
+**This is an “_irl” subreddit. All posts should be titled “furry_irl”**
+
+Posts must stand on their own without the title to explain them. If your post doesn't make sense if it is named ""furry_irl"" it will be removed. If in doubt or it gets auto removed, title your post ""furry_irl"".
+
+Titles can contain any **one real SFW word**, of at most 14 characters, followed by one non-alphanumeric character (multi-character emojis are supported), followed by the letters ""irl"".
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_this_is_an_.201C_irl.201D_subreddit._all_posts_should_be_titled_.201Cfurry_irl.201D).
+
+If this is the only removal reason, your post is fine!  Feel free to repost with an appropriate title.
+
+**All furry content must be relatable or a meme**
+
+Your submission was removed for not containing a clearly relatable or meme/joke context.
+
+* Furry artwork and merchandise with no other context, that normally wouldn't be considered a ""meme"". Examples include unedited comics that aren't memes, ref sheets, commissioned artwork of your fursona, group photos in a con, furry related decals on laptops/cars/etc., video game or phone screenshots, etc.
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_all_furry_content_must_be_relatable_or_a_meme).
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/bw4p5j5rhql51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* “Anti-fur” bashing/hate posts. Yes, we know, furry haters bad
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+mildlypenis,Source: [https://twitter.com/\_beccawright/status/1302247980821614592](https://twitter.com/_beccawright/status/1302247980821614592)
+furry_irl,"Hello! Your [submission](https://i.redd.it/4blxwrzxinl51.png) was removed for the following reasons:
+
+
+**Furry_irl is a subreddit for furry memes**
+
+Your submission was removed because it was not relatable to furries or furry culture in some way. There must be a clear reference to furries, furry culture, or notable people or characters in the furry community.
+
+Posts need to stand on their own; **if the fact they are being posted to a furry subreddit is what makes them furry, or it needs a furry related title to give it furry context, they do not stand on their own.**
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_furry_irl_is_a_subreddit_for_furry_memes).
+
+
+
+
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://v.redd.it/mf4mzqazluk51) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/31uh0d4yvjl51.jpg) was removed for the following reasons:
+
+
+**This is an “_irl” subreddit. All posts should be titled “furry_irl”**
+
+Posts must stand on their own without the title to explain them. If your post doesn't make sense if it is named ""furry_irl"" it will be removed. If in doubt or it gets auto removed, title your post ""furry_irl"".
+
+Titles can contain any **one real SFW word**, of at most 14 characters, followed by one non-alphanumeric character (multi-character emojis are supported), followed by the letters ""irl"".
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_this_is_an_.201C_irl.201D_subreddit._all_posts_should_be_titled_.201Cfurry_irl.201D).
+
+If this is the only removal reason, your post is fine!  Feel free to repost with an appropriate title.
+
+**All furry content must be relatable or a meme**
+
+Your submission was removed for not containing a clearly relatable or meme/joke context.
+
+* Furry artwork and merchandise with no other context, that normally wouldn't be considered a ""meme"". Examples include unedited comics that aren't memes, ref sheets, commissioned artwork of your fursona, group photos in a con, furry related decals on laptops/cars/etc., video game or phone screenshots, etc.
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_all_furry_content_must_be_relatable_or_a_meme).
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/itzvo50brgl51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/1g5x7b0anel51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Furries should be shot/hunted - “If they can hunt us then we can vore them,” etc.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/2j4jaka7dfl51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* “Anti-fur” bashing/hate posts. Yes, we know, furry haters bad
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/ateq85wqyfl51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/aqzb9tz6i7l51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* owo, uwu, 621, and knots - Submissions whose only punchline is to make a reference to common terminology within the furry community.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/n1xh9k4csbl51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/u89wftx4gcl51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* Chat screenshots - Chat logs, especially if they make references to internal jokes and otherwise non-relatable content.
+
+[](#end_removal)
+
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/xxtinb0oycl51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,Approved
+furry_irl,"Hello! Your [submission](https://i.redd.it/va89q61ilcl51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/36tmzx8jsal51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+MAGIC_EYE_BOT,Thanks for being receptive to the idea!
+furry_irl,[Source @markimaIIow on Twitter](https://twitter.com/markimaIIow/status/1302017364784033792)
+furry_irl,"Hello! Your [submission](https://i.redd.it/vcnuknk6o8l51.gif) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/xf31p54ld8l51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/10a95sjr25l51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+**This post was removed for not being tagged NSFW.**
+
+If your post contains NSFW-material such as sex toys, bodily fluids, softcore, etc. or has strong or sexually sugestive suggestive language in it, it must be tagged as NSFW. If your post contains depictions of actual genitalia or explicit sex acts or scenes, it additionally has to be flaired as “actual yiff.”
+
+It is better to be safe than sorry; tag your post as NSFW if you’re not sure. 
+
+Not marking NSFW content may result in a temporary ban leading to a permanent ban with repeated offences.
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"[](#start_removal)
+
+[](#end_removal)"
+furry_irl,"Hello! Your [submission](https://i.redd.it/81flut7p36l51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/k4c9aonhm5l51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+MAGIC_EYE_BOT,"Ah no worries, it was kind of a long shot anyways \^\^;
+
+On an unrelated note, would you consider adding an option to blacklist submissions based on flair rather than a comment pinned to the submission? For example, everything flaired as ""Repost"" gets added to the blacklist.
+
+I'm really grateful for all the help your bot has provided us!"
+furry_irl,"Hello! Your [submission](https://i.redd.it/2ck8jqhb41l51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+flashcarts,I've been waiting for these to be back in stock. I'm tired of tweaking the disc reader pot and changing aging drives.
+furry_irl,"Hello! Your [submission](https://i.redd.it/9p7omsviyxk51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://v.redd.it/edkskjqqoyk51) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.imgur.com/2FO32oO.jpg) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+3DS,"They're two completely different platforms, the only similarity they have is that both have a Nintendo logo on them."
+flashcarts,"With a 3DS these days I just use TwilightMenu++ to run DS games directly from the console's SD card instead of plugging in a flashcart. But even if you have a R4 you should have no issues updating it as long as you can be sure the new firmware will be able to be ran on an unmodded 3DS.
+
+If you haven't done a factory restore since getting the console it's always recommended to do it as it might have another person's NNID linked to it. Unless of course they sold you the console with digital purchases included in the package in which case you'd lose them if you reset."
+furry_irl,Your meme has been done dozens of times before.
+furry_irl,"Hello! Your [submission](https://i.redd.it/tzq55ly7gjk51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,Approved
+furry_irl,Approved
+flashcarts,"All of those consoles have really good flashcarts available. For the NES you might want to research which mappers do the games you want to play have and which the flashcart supports. All of them should work for 99% of the games. 
+
+For the SNES get a SD2SNES.
+
+Experience is exactly the same as playing with a real cartridge, just plug it in and select the ROM you want to run a d it should behave exactly like a real cartridge should as you're playing on real hardware.
+
+A huge advantage of using a flashcart is that you can play enhancement hacks of old games that the community has developed, featuring everything from fixed translations, better game balance, fixed bugs, etc. to bring the games more on par with the quality we expect today and to maintain the rose tinted glasses with which we remember old games with none of the ugly. You can also run translated versions of games that never came to the West too. There are a ton of possibilities besides just running regular game ROMs."
+furry_irl,"Hello! Your [submission](https://i.redd.it/4l2hy50iddk51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.imgur.com/Nognnbr.jpg) was removed for the following reasons:
+
+
+**Do not post submissions or make comments that deal with overtly political topics or push for a particular political agenda.**
+
+r/furry_irl is a meme subreddit; political content is inappropriate, and out of the scope of the topics we cover here.
+
+- Politically charged speech, iconography and paraphernalia.
+
+- Memes that involve politicians and other related public figures and organizations.
+
+- Commentary on current news or historical events with a political slant.
+
+- Depictions or support for violent or extremist ideologies and organizations.
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+furry_irl,"Hello! Your [submission](https://i.redd.it/x8xy3aaqquj51.jpg) was removed for the following reasons:
+
+
+**Furry_irl is a subreddit for furry memes**
+
+Your submission was removed because it was not relatable to furries or furry culture in some way. There must be a clear reference to furries, furry culture, or notable people or characters in the furry community.
+
+Posts need to stand on their own; **if the fact they are being posted to a furry subreddit is what makes them furry, or it needs a furry related title to give it furry context, they do not stand on their own.**
+
+For more information, check out the rule in the wiki [here](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_furry_irl_is_a_subreddit_for_furry_memes).
+
+
+
+
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/ogyej4pvm3k51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/wsb2r4u5n3k51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/e5ix4btan5k51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+hardware,I use a PM961 in my laptop and it's great value while still being available in many channels due to it being an ubiquitous OEM part. Performance is also excellent for its age.
+furry_irl,"Hello! Your [submission](https://i.redd.it/3d3x1sh4qrj51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+hardware,"I've been using Scythe case fans for years. They're insane value for what you're getting. I don't need the cream of the crop, just good, no frills silent fans at a good price, and Scythe delivers in spades."
+vexillologycirclejerk,Press F to forfeit
+furry_irl,"Hello! Your [submission](https://i.redd.it/2u1n2rxwrjj51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+hardware,... that's not how Chinese characters work at all.
+hardware,Did they wipe it with a cloth?
+hardware,"They require softmodding the console and for that it often requires years of community research.
+
+It's not a one person job. It's the culmination of hundreds of people over dozens of different projects over multiple years to arrive at this level of customisability."
+furry_irl,"Hello! Your [submission](https://i.redd.it/8rpsnoughfj51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+This also includes low effort posts featuring commonly reposted topic or templates.
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+**This post was removed because it is about a topic on our [overdone topic list](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed).** 
+
+This topic is banned for the time being because it was beaten to death. It may become available to post in the future. Please check our sidebar before posting a recently popular topic to see if it has been put on the deadhorse list.
+
+* “Anti-fur” bashing/hate posts. Yes, we know, furry haters bad
+
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+shittyfoodporn,Pasteurised process cheese food product
+hardware,"I have a job and plenty of free time to enjoy videogames and I still can't justify a $600 graphics card. I'm not playing AAA videogames all the time, 90% of my time in front of my PC is spent with the GPU idling or playing very light esports titles. I'd rather invest in something I'll be using all the time, such as better peripherals or a better monitor.
+
+High end GPUs are terrible value through and through."
+NintendoSwitch,Yeah mine didn't come with a manual either.
+furry_irl,"Hello! Your [submission](https://i.redd.it/ehb7dx6ih9j51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+hardware,"I haven't seen that meme in a decade, thanks for the blast from the past."
+furry_irl,"[](#start_removal)
+
+[](#end_removal)"
+furry_irl,"Hello! Your [submission](https://i.redd.it/w85mbwyk39j51.png) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"Hello! Your [submission](https://i.redd.it/koj2ykqes7j51.jpg) was removed for the following reasons:
+
+
+[](#start_removal)
+
+**This post is a common or recent repost.** 
+
+
+
+For more information about this rule, check it out on our wiki [here.](https://www.reddit.com/r/furry_irl/wiki/rules#wiki_common_reposts_and_overdone_topics_will_be_removed)
+
+[](#end_removal)
+
+
+
+You can reply to this message for any inquiries regarding your submission."
+furry_irl,"[](#start_removal)
+
+[](#end_removal)"
+furry_irl,Approved
+hardware,"Hopefully they become a competitive alternative to Qualcomm now that Huawei is pouring big bucks onto them.
+
+They already have great chipsets, if only their driver support was as good as Qualcomm (which aren't even that good to begin with)."
+MTGLegacy,"This is a combo/control list I used to play, and it cheats out Dreadnought with the help of Cloudform as one of the win conditions. Basically every combo piece in the deck can be tutored or manipulated to the top of the library.
+
+https://www.mtggoldfish.com/deck/1033754#paper"
+hardware,Guess I can scratch Asrock off my purchase decisions then. A pity because they make decent products at decent prices but this is not a practice I'm willing to support.
+hardware,"That model they reviewed is a generation or two behind their latest designs.
+
+They have a new uarch that can give a similar IPC to Sandy Bridge now. It's still bad by Intel and AMD standards, but they're no longer based on decade old VIA designs."
+hardware,They're also the names of multiple AMD CPUs. Summit Ridge for first gen desktop Ryzen for example.
+shittyfoodporn,I need this in my life.
+hardware,"I bought a Viper Ultimate early this year that had the left clicker become extremely mushy and squeaky after one month of use, and I've had to send it back for repair. They gave me a brand new one and I hoped it wouldn't have the same issue but now the right click is starting to do the same, but it's much less annoying as I use it less often, but still annoying. I'll be waiting a couple more months until the warranty period starts to run out and request another RMA.
+
+I love the mouse but these quality issues are unacceptable. The squeaky clicker issue is fairly widespread and I'm by far not the only one to get it."
+leagueoflegends,Literally the entire comment chain in the announcement tweet.
+furry_irl,"You submitted two posts here, both of which were automatically filtered because you didn't bother reading the title rules."
+furry_irl,"Photo by u/Diarjmon twitter.com/diarjmon
+
+Featuring Rand the Tiger twitter.com/StripyRand
+
+and Bolty the Fox twitter.com/InvertedBolt"
+furry_irl,"Since the OP didn't bother providing one, here's the source:
+
+[https://twitter.com/s1120411/status/933323316672073728](https://twitter.com/s1120411/status/933323316672073728)"
+furry_irl,But you still a hairless monkey just like IRL. Let me have some escapism 😿
+emulation,"Allow for fan modifications to add support for more features, maps, performance etc. Stuff like mouse and light gun support, bigger ROM size to restore the full contents of the PC game that were cut from the retail release due to budget constraints, even a possible SA-1 enhancement to make the game run even faster on original hardware since it was mentioned in the video that the console's puny 5A22 CPU was a crippling bottleneck even with the GSU-2 doing most of the heavy lifting.
+
+It's much easier for the community to work with original source code than to try to reverse engineer it from decompiled code like most old enhancement hacks are developed."
+furry_irl,Approved
+furry_irl,We are considering opening this new feature and will come to a decision in the very near future :3c
+furry_irl,Don't mark stuff as OC that you haven't created yourself.
+furry_irl,They dedicated a commemorative plaque at the pool entrance on its memory.
+noisygifs,It's a sable. They're related to pine martens but in all black.
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+HHKB,"I never opened or modified my keyboard and it happened randomly with pretty much every key so it shouldn't have been an issue with the springs, and I believe this mostly happened when using it with my desktop PC although I never tested it extensively with my Android tablet which was the only portable device I used it with. Might be worth testing whether having the BT receiver on the front of the PC closer to you rather than on the back panel might help."
+HHKB,"I had that with my HHKB BT, and it was common enough that I ended up returning it and getting a Pro 2 Type-S.
+
+I believe it was a Bluetooth sync issue, but never found a solution for it. That was years ago though so there might be more info on it out there now."
+hardware,"This is 802.11 ""Draft-N"" all over again, but this time with the manufacturers not even bothering to tell people it's not real WiFi 6."
+hardware,Rumours point to only the top end cards releasing in the fall though. So a midrange equivalent to the 2060/5700 might have to wait till next year.
+PokemonQuest,For these kinds of games always get the Switch version. Nintendo is releasing another game in a few days.
+GameSack,"The GBA has been done to death.
+
+I'd like to see more modern games, such as from the Wii or the PS3. Relatively little has been said about the technical aspects of those platforms compared to older consoles."
+furry_irl,"Please don't link to NSFW content without disclosing such, thanks."
+furry_irl,"News outlets ask for permission to publish tweets all the time, it's common courtesy and definitely something the writing team at that show should have done.
+
+If you go to any tweet of someone who has uploaded a video clip of any breaking news you can see reporters replying at it asking for permission for the tweet to be featured in their coverage."
+furry_irl,"Here's the clip for reference (NSFW)
+
+[https://twitter.com/LurkingGrue/status/1275147190227197952?s=20](https://twitter.com/LurkingGrue/status/1275147190227197952?s=20)"
+worldnews,You mean the general population hates Muslims. They would've never listened to and voted for her if she advocated for the rights of the Rohingya.
+hardware,"Same, I already have the plans to build a media server/NAS lined up, and that's where my current R7 1700 will go. Just waiting for the 4000 series CPUs to come out, and maybe also snag a RDNA2 graphics card for a good price if their mid tier supports raytracing to replace my 1060.
+
+I can move all my VMs (that I currently run on my desktop PC) to the 1700 server and buy a potential 4600X hexacore CPU that will finally give me decent single threaded performance now that I won't need that many threads."
+hardware,Nobody starts guns blazing with a product that will dethrone established players overnight. It was always a given that Intel's dGPU products will first start small then go to more specialised applications such as AI and workstations first before arriving at the cutthroat market that is consumer gaming GPUs.
+hardware,"The 7nm process has matured to the point where newer silicon can clock higher on average than what they could last year, so AMD decided to capitalise on that extra headroom. It's not binning the same thing, but an improvement in manufacturing process across the board."
+Ubuntu,"Thanks for the heads up, KDE should get some more love. That exactly provides the global menus? The themes themselves, or do I have to install another utility?"
+Ubuntu,So sad they deprecated OSX style global menus together with Unity. It just doesn't feel the same without them.
+emulation,bsnes is a much more performant version of Higan with very little compromise in accuracy. I consider it to be better than snes9x in almost every regard.
+hardware,"I actually like the cooler design, if the fans are set up in a push pull configuration it will be very efficient at cooling the die."
+PublicFreakout,"Sadly that's not how DMCA takedowns work. You can DMCA literally anything on the internet and it's up to the uploader to dispute the merits for it being taken down. It works this way because companies don't have the time nor the legal resources to review each and every DMCA notice so they just remove everything submitted by default. 
+
+The law is deeply flawed because it dates back from when it was designed to tackle counterfeit music CDs, not internet social media."
+shittyfoodporn,Just pretend it's a chocolate coated doughnut shaped cream puff.
+gaming,"How has nobody played it, everyone at my school with a GBA bought at least one of the games in that series."
+hardware,"This seems incredibly good for streaming consoles up to the X360/PS3. The combined cost for one of these + an HDMI splitter is much, much lower than one of the more mainstream capture solutions with an HDMI bypass for your TV."
+AgainstHateSubreddits,"I don't know if it's still relevant, but just in case we want to sign up r/furry_irl to this initiative."
+magicTCG,MTG has had black characters since Alpha. The entire Mirage block was inspired on Africa. In 1996.
+speedrun,You can RNG manip for a perfect Bidoof first ball catch on the first tile of the first patch of grass available. But that would involve finding a seed just for this category.
+magicTCG,"But it also birthed the ""dies to Doom Blade"" meme so all was good."
+MTGLegacy,"I used to play a toolbox list that also used Enlightened Tutor (plus other cards that manipulate the top of the library such as Scroll Rack) as it can find both sides of the combo.
+
+Edit: here's the list https://www.mtggoldfish.com/deck/1033754#paper"
+furry_irl,Please choose a flair that doesn't contain derogatory words.
+hardware,"Apple hasn't done it yet so the userbase's expectations of how a video call should look haven't improved. People just assume video conferencing looks this way because that's how it should look, so there's no demand for better integrated laptop webcams.
+
+On the other hand, integrated microphones have been improving lately because people expect their voice to sound better nowadays because the audio in their phones have improved, especially as wireless headphones have become ubiquitous so the dinky phone earpiece isn't used as much anymore."
+hardware,"It brings in the clicks because it's eye catching and people will scour the article to check if it's real.
+
+Whenever such an article shows up in my Google News feed I just block the source. They don't deserve anyone's attention."
+3DS,That clickbait title says everything I need to know about whether it's worth the time to watch this video.
+3DS,Fire Emblem Fates has animated cutscenes.
+furry_irl,Please don't make off topic begging posts. You will be banned.
+hardware,"Oh yeah for sure, I plan on building my next home server with HGST drives. But WD's assimilation of what remains of HGST is mostly complete and it's just a matter of time they end up the same."
+hardware,"HGST has been sold to WD, and Samsung's HDD division was sold to Seagate. The market has been consolidating around WD and Seagate as SSD sales continue to eat through their market share.
+
+Toshiba is the only remaining substantial competitor to these two, at a distant third place."
+furry_irl,28 here! The modteam is generally quite seasoned.
+emulation,Is there a way to always launch **only** the desktop interface without needing to have the regular UI open in a separate window?
+hardware,"I remember because I owned one haha
+
+It also had a horribly sounding and loud HDD that clicked like no tomorrow whenever the PC accessed it, which, in the era before SSDs, was *often*."
+hardware,Considering how dinky the box cooler is I would think it matters in your average build that isn't optimally ventilated.
+hardware,Browsers hit the CPU even harder than native office apps.
+hardware,Every Core i3 in a nutshell.
+furry_irl,Who's that cute 🅱un🅱un :3c
+hardware,Why is UFS not used in laptops? Is it more expensive than NVME? Given the low power draw I would think it's an attractive option for manufacturers but the low end market is still occupied by eMMC.
+hardware,Thirty nine hundred ten R
+hardware,It's still $75 you can put towards a better and cooler CPU.
+furry_irl,OP is the artist.
+ModSupport,"Maybe you should consider adding more moderators so you aren't forced to do this much work. One person handling a sub of 100k subscribers is insane, epecially if you're having connectivity problems.
+
+If you're worried about someone else mismanaging the community, don't be. You're still the head mod and can replace them at any time."
+hardware,"Yeah, like AMD having an Ryzen 9 segment sorta makes sense as those parts are essentially only geared towards workstation use as nobody needs so many cores for high performance gaming rigs and other leisure usage cases, but the Core i9s are still being marketed for gaming by Intel so there's literally no market differentiation with the i7 other than having 2 added to the i."
+hardware,"It would be very hard to get accurate monitoring software and drivers running on Linux, if not completely absent."
+bugsarefuckingstupid,r/whatsthisbug
+hardware,It will be years before we start seeing PC games that get bottlenecked by storage to such a degree that you will need PCIE4 sequential reading speeds.
+oneplus,"I've owned a bunch of Xiaomi phones over the years, many of them Chinese models with Chinese ROMs and they have always allowed me to disable the shutter sound. The last one being a Xiaomi CC9 just 2 months ago."
+hardware,"They will still go on Google and get lots of conflicting and confusing information about whether B450 boards support Zen 3 or not. It's already hard for someone who's not up to date with PC hardware to make the right choices for a new build, much less trying to deal with BIOS revisions.
+
+I've built a ton of PCs over the past two decades and I used to be very knowledgeable for a few years, being a proper ""enthusiast"". But from the Sandy Bridge to Skylake era I had no idea whatsoever about the latest trends and models as I had more concerning matters in my life. Had to do *a lot* of research over the course of multiple weeks to get up to date when I finally decided to buy a new PC in 2017. And that's someone who used to overclock Athlon XPs and flash GeForce FX graphics card BIOSes.
+
+This is a lose-lose situation for AMD."
+Shittygamecollecting,Bet the battery inside has leaked all over the PCB after sitting there unused for two decades.
+3DS,"I have 950 hours on Alexandra Ledermann DS.
+
+It was the game my Acekard 2i camouflaged itself in order to be able to run on the DSi, kept using it on my 3DS and I still use it to this day.
+
+My most played ""legit"" game is Pokémon Omega Ruby with 225 hours and Alpha Sapphire with 165, because I used to speedrun them."
+furry_irl,Replied to the user above!
+furry_irl,We do a flair thread on the last weekend of each month
+nottheonion,"Chinese, Japanese and Korean people can understand CJK characters (hanzi, kanji, hanja, however you want to call it) all the same. The symbols all mean the same in any language, that's how the writing system works, its meaning is detached from the language it's being used in. They can be pronounced differently and have different grammatical uses in each language, but the inherent meaning of the characters all stay very consistent.
+
+So a Japanese person can go to China and be able to understand most of the writing, but will be unable to speak or listen to any of it in Chinese as they only know the Japanese reading. Vice versa with Chinese people reading Japanese. You can read the kanji and glean most of what each sentence is trying to say, even if you have no idea about the hiragana and katakana used."
+speedrun,"Component to HDMI using an OSSC would be ideal, both in image quality and input lag."
+emulation,">the real reason they were blurry was because they took insanely small textures then forced anti-aliasing on them.
+
+The assets were insanely small and compressed because they had to fit inside the tiny texture cache. Which was 4KB big. That's a drop even in the relatively small ocean that was the cartridge ROM.
+
+ROM size hampered other aspects of the game, such as cutscenes (which were either compressed to the extreme such as in RE2, or eliminated completely in ports to the N64), and audio, which couldn't compete with systems that used Red Book audio.
+
+Most CD titles of that era had almost all of their disc capacity occupied by FMVs or audio tracks, not actual in-game graphical assets such as textures and models."
+emulation,"The blurry textures issue has more to do with the severe cost cutting measures Nintendo did to limit the texture cache in the graphics processor, forcing developers to compress textures to an extreme degree. Mitigation techniques such as mipmapping were also not possible (or very hard to do). Textures didn't take a lot of space even in CD based systems as the bottlenecks of the era were the system memory access time and cache size, not storage. The PSX relied on flat shaded polygons whenever possible to improve performance despite having entire CDs worth of storage space."
+emulation,"People hate me for saying this but when I was a wee lad I didn't enjoy that game because it was so hard to navigate around the endless expanse of blurry shades of green and brown, and we didn't even have a bad or small TV. Left me a bad taste of the N64 in general."
+emulation,There is a way to expose the PCIe lanes of the RPi 4 but without drivers an external graphics card is useless.
+furry_irl,Cropped yiff is now to always be marked NSFW. Remember to do this in the future.
+furry_irl,"Approved, sorry!"
+furry_irl,Poor Volta
+MechanicalKeyboards,That's honestly an insane deal. I have the mouse and it's legit.
+assholedesign,"They know their game is shitty so they bait people with these ads into installing that game. Even if you uninstall immediately after, it still counts as an install and it helps bump their product up on the game listings, where it will be noticed by people with lower standards who will perhaps install on their own.
+
+It's all about the metrics."
+hardware,"I wish we went back to the simple blue menu screens. Okay maybe give it a less eye searing colour, such as dark grey.
+
+I want my BIOS to be readable and simple, I'm adjusting settings not playing a videogame ffs."
+oneplus,"Yeah the Velvet is a $1000 flagship in everything but the SoC. I'd say the $700 MSRP is... fair, all things considered."
+Gameboy,"Japanese cartridges are much cheaper than their English counterparts. You can get JP Ruby and Sapphire (cart only) for around $15 each.
+
+FR/LG are rarer though."
+oneplus,"Reviews have already shown that the 8 has a worse camera than the 7T so I don't expect the Z to surpass it so yeah, I agree.
+
+The main advantages the Z would have over the 7Pro and 7T will be 5G and an extra year of software support. I'd place some value on the latter but I don't think anyone really cares about the 5G even if they live in a place with good coverage."
+emulation,You mean the dev doesn't have a massive collection of every cart/disc ever released in every region that they can dump and test for compatibility? I'm shocked! /s
+emulation,But won't you think of the hungry execs over at Square Enix? /s
+evilbuildings,"Such a building doesn't actually need to be a hotel, it can be repurposed for government or office use, for example. The main reason it's been sitting empty for all these years is because its structural integrity can't be guaranteed anymore after decades of being abandoned and left to the elements."
+emulation,"I'm surprised there isn't a Pippin emulator out there, as it shares a lot of hardware (including the CPU) with the PowerPC Macs of the time."
+MapPorn,Mongolia has been experiencing a mining boom over the past decade which has resulted in breakneck economic growth. That's has brought with it a certain degree of political stability. Environmental concerns on the capital Ulan Bator are growing increasingly dire as more and more young people move there for work opportunities as it's pretty much the only modern city in the country.
+flashcarts,"Doesn't the Omega use emulation for the GB? I've tried a couple games and many of them had graphical glitches and one of them didn't even boot. That's a huge downgrade from real hardware, which is the point of using a flashcard in the first place"
+NintendoSwitch,"The sequel is much more combat oriented with multiple customisable upgrade options similar to Hollow Knight if that's what you're into. In fact, the game mechanics of WotW take heavy inspiration from HK as a whole.
+
+For me Ori is all about smooth and snappy movement, and both titles are excellent in that regard.
+
+If you definitely don't like Ori, then The Messenger is an extremely strong option available on the Switch. 100% recommended. Axiom Verge has also been ported to the Switch.
+
+And you always have the OG Super Metroid through the NSO service. Been playing it for 25 years and still not tired of it!"
+hardware,"I really wish Mediatek would get their driver stuff together and actually provide long term support for their SoCs as they're actually a very competent firm, and it's a pity it all goes to waste because nobody takes them seriously as they keep abandoning their past products at a breakneck pace."
+hardware,"I have a smart rice cooker that I can set up before I leave for work and tell it through my phone to start cooking when I'm done for the day so I can have it ready when I get home, since good rice takes so long to cook. Could I have accomplished the same with a timer? Perhaps, but it doesn't account for overtime and leaving early.
+
+I wouldn't trust anything with a mic and voice controls though."
+nintendo,Them splitting Pokemon Home away in its own subscription was a terrible mistake. It makes both of them terrible value propositions.
+bashonubuntuonwindows,There's a typo in that command
+emulation,"You can find patched Chinese ROMs on the internet that work with regular N64 emulators.
+
+If you know enough Chinese to navigate websites in that language, look for ""汉化""  versions of the games you seek."
+furry_irl,No probs! I went ahead and done it for you this time
+speedrun,If you have a camera and a way to mount it steady to record the TV (assuming you're running it docked) then you're all set. Technically not even a timer is needed as long as the video proof can be easily timed.
+hardware,Yeah I realise it's a gross oversimplification and that in reality there's much more nuance to it but there's really not a good way to ELI5 it accurately :p
+hardware,"Traditional semiconductors are made more like your typical inkjet printer, with every component on the same plane, which made for cheap and easy manufacturing but it's space inefficient. Fin-FET adopts a technique more akin to 3D printing, in that components have a certain verticality to it, allowing for transistors to be placed vertically and thus making them more space efficient so we can cram more stuff in the same die area."
+hardware,"I'm surprised there was no mention of the Covington Celerons. They were basically Pentium II chips with no L2 cache at all, making them effectively braindead and incapable of anything close to what its proper Pentium II brother could accomplish. If you thought cache-less SSDs were dumpster fires, you haven't seen a cache-less CPU."
+hardware,You might want to take a look into repasting it and cleaning out the cooling system.
+worldnews,"Nobody likes the puppet government the Saudis installed, what a surprise."
+speedrun,"Yes, and that's what I mean when I said that some games are translated by different teams in mainland China and Taiwan, for example, resulting in script divergences. But those are not related to the usage of the Chinese script itself, which is consistent across the entire region."
+speedrun,"Chinese is generally faster in games that have it available, for the same reasons Japanese is generally faster than languages written in the latin alphabet: it uses fewer characters for the same dialogue.
+
+That's why many if not most newer games are being run in Chinese now that more and more games are translated into that language."
+speedrun,"Simplified and Traditional Chinese are effectively the same character set with different variants on some of them. It's like writing English in cursive, linguistically there are no differences whatsoever. CJK (Chinese-Japanese-Korean) characters are all interchangeable, you can in theory even write Japanese with the kanji replaced by their Simplified Chinese counterparts and the meaning would not change at all, and vice-versa.
+
+However, some games that have both versions available might have them done by different teams in charge of translating the game to Chinese, so you could get dialogue and naming differences that can be longer or shorter depending on who did them. Many modern games released over the past few years straight up have the same dialogues with the character set swapped 1:1."
+bashonubuntuonwindows,"I'll give it a try, thanks!"
+bashonubuntuonwindows,"Does it install as a separate system or as an upgrade to an existing installation?
+
+If it's separate, how do I upgrade my existing WSL2 18.04 installation?"
+hardware,"ODroid has probably the second biggest community and software support available after the Raspberry. This argument could perhaps apply to the ton of no name board out there but ODroid is very decent in that regard. This particular board has official support for Android for instance, something the RPi lacks."
+3DS,"Might be a dead battery, if the new charger doesn't work consider getting a new battery. Swapping it is a trivial task that takes 3 minutes.
+
+If the battery doesn't work then it might be a faulty or corroded charging port, in which case it will need to be replaced."
+3DS,"Buying from China is cheaper because of economies of scale, as whoever sells them in Europe buys from them too, and these people move *a lot* of product. Nobody makes screens of the exact same specs as the ones used in a specific $100 consumer product other than whoever already supplies Nintendo so you don't have to worry about them being shoddily built ""fakes""."
+shittyfoodporn,r/shittyfusioncuisine
+3DS,If the wait is going to be long I recommend you look into Citra emulation for your kid in the meantime. It requires a decently powerful CPU but compatibility is great so he should have a great time playing regardless.
+3DS,"On an unmodified console you can't, you'd need a custom firmware to run out of region cartridges."
+3DS,"I personally liked Fire Emblem If more because of the sheer content that game has, but you can't go wrong with either of them!"
+shittyfoodporn,"Parmesan style hard cheese isn't even that expensive, people just mistake it for PDO Parmigiano Reggiano, which is made in a specific region in Italy. There are great Czech, Hungarian, Spanish and even American parmesans that taste just as good for a fraction of the price, just like with Champagne and any other sparkling white wine."
+shittyfoodporn,You can buy food grade sawdust and add it to your baked goods to satisfy your crave.
+nottheonion,Governments will use this as an opportunity to increase fuel tax revenue instead of letting fuel retail prices drop.
+speedrun,The pinned post is a VOD thread.
+speedrun,"Thank you for the acknowledgment, your mods keep telling everyone that it's their own fault and that they should reload the stream when it's clearly not the case. It's led me to try watching from multiple devices and setups just to get the same result, and I can't possibly be the only one who got misled that way.
+
+Anyways hope you guys manage to fix this, this event is awesome and I wish you the best."
+speedrun,"All runs are consistently stuttery, TGH's run at ESA a couple days ago was buttery smooth 60fps while here it's a choppy mess. You can see the restream drop frames multiple times a second even if the video is ""60fps"".
+
+The stream itself isn't dropping frames, but the restream that captures the runner's feed is clearly having issues."
+speedrun,"The game feed seems to be incredibly choppy for all games despite the layout running at 60fps, to the point that it's near unwatchable. Hope they fix the technical issues soon as it would suck to have it be this laggy for the whole weekend."
+furry_irl,"[Source by じゅうっとん
+](https://twitter.com/10t100t1000tt/status/1250732951622443008)"
+MicrosoftEdge,That's Edge dev
+OriAndTheBlindForest,"I was surprised when reviews said it was a difficult game but I found it easier than the first one. I think a lot of it has to do with the progression and upgrade system, it's clear that reviewers didn't have the time to sink 20 hours into the game to collect everything and unlock every ability. I can see that going straight to the finish line would be much harder in WotW than DE."
+OriAndTheBlindForest,I feel they're saving that for a DE version of the game later on.
+MapPorn,"Iran still has cheetahs! They are in dire need for protection and it's gotten worse over the past few years as the Iranian state has been squeezed out of funds due to sanctions though.
+
+The central Asian steppe has historically been an ideal habitat for big cats, with better conditions for them to thrive in than the current ones like the African savannah. The arrival of European expansion in the 18th century and subsequent habitat destruction has decimated pretty much all of it."
+furry_irl,"That's not a valid excuse for not tagging it NSFW. If you don't know how to tag it from mobile then wait until you're in front of a PC, ask someone else to submit it, or don't post it. Please make sure this doesn't happen again."
+furry_irl,"Please tag suggestive content as NSFW next time, thanks"
+oneplus,Have you considered swapping the battery for a new one? I thought my previous phone had terrible battery life with a new update but it was just the battery itself dying.
+oneplus,"I like Xiaomi's scheme much more, where swiping in from the upper half of the screen brings out the lateral panels just like without gesture controls, and sweeping in from the lower half of the screen is interpreted as a back gesture.
+
+Wish something similar could be implemented here."
+oneplus,"That's Helvetica. It's a very wide font that's not well adapted for tall and narrow displays such as those in mobile phones. It's also non ideal for smaller font sizes such as system UI as it can create legibility issues. You can download the font and install it yourself if you have a rooted device, as the font already exists (and has existed since the 1950s)"
+speedrun,"[Speedrun.com](https://Speedrun.com) already has forum, guide, strat, and resource pages for each game on their respective leaderboards. It's up to each community to decide whether to use them."
+TinyUnits,f l o p p y
+furry_irl,We are balancing the diet this year.
+furry_irl,"Fruits are plants too! Fruit representation is important to us, so feel free to post all the fruit you want."
+furry_irl,Having a balanced diet is important.
+furry_irl,Holy shit someone got the reference!
+hardware,Got any proof on that?
+3DS,"The normal sized ones are great, especially with the Super Famicom coloured face buttons!
+
+The only real upside of the XL versions are the ability to play GB, GBA and NDS games at 1:1 scaling without the image looking uncomfortably tiny. So it's worth going for the bigger version if you're interested in playing those older platforms. For pure 3DS gaming the regular one looks much better."
+3DS,"The n3DS XL is also much more expensive. A new unit is like what, $200+?"
+hardware,"They're pricing their current ARM based iPad Pros at laptop prices already, there's no reason to expect ARM powered actual laptops to be any cheaper."
+3DS,My first Pokémon game was JP Red from before it got released in the West yet my favourite generation by far is Gen V. B2W2 in particular were the pinnacle of game design and sheer amount of content in a single cartridge. Gen I has some charm but I have no desire to ever play them again.
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+oneplus,"I think the OP5T in particular has that jelly effect when scrolling because the screen refreshes from top to bottom and they mounted the screen upside down compared to the normal placement in most phones. So when scrolling the screen refreshes against the normal scroll behaviour in most phones and you get uneven refresh pacing i.e. jelly.
+
+It's also very evident in bigger devices like OLED tablets when you scroll in landscape mode if the screen refreshes vertically, and vice versa is it's a horizontal refresh display and you scroll it on portrait mode."
+hardware,"First they entrap you in their ecosystem then introduce these easy ""oopsie"" moments that make you think it's your fault you broke it so you'll be forced to buy a new one or pay exorbitant prices in Applecare insurance."
+hardware,Will that be an issue with a potential Switch port given the console uses a Maxwell GPU?
+hardware,"Without Ryzen we'd still be having 8 core HEDT chips at $900 with consumer 6 core Core i9s at $600.
+
+But we'd have spanking new integrated graphics on those chips in order to compete with Nvidia though."
+RepublicanValues,"Trump is no senior, he's young and virile as an ox. Literally the healthiest president the country has seen /s"
+hardware,Solid state drives drives
+3DS,"Most people still buy legal Switch games though. Only a minority of consoles can be hacked and even a smaller minority of those with the correct Switch actually go ahead and hack it.
+
+Compare that to the 3DS where people nowadays pretty much exclusively buy one so they can hack it if they don't already own the console."
+3DS,"Piracy already irrevocably damaged the 3DS's retail presence a long time ago, all I see nowadays are 3DS games at full price gathering dust at big box stores, and smaller retailers dealing with second hand copies exclusively."
+3DS,"I think it's just that our devices have become faster, because the website itself has stayed basically the same since at least Pokemon Diamond/Pearl spoiler season which is when I started visiting it for the first time."
+emulation,The GBA had the same severe warping issues due to the lack of a hardware FPU. Some 3D games resorted to using lookup tables where things like trigonometric operations were just checked against a list of approximate results for every input instead of doing the costly calculations on the fly.
+Android,"LG phones still sell extremely well in Korea, which is probably the only reason they're still making phones at all."
+emulation,"It had very limited functionality before now though. But with mouse support it's finally a much superior way to use on PC than any other UI, including the desktop interface itself."
+Android,"Also Huawei relies much more on retail sales in China than Xiaomi does, which has a very strong online presence. Hard to go to a store to buy a phone with everything closed."
+Android,"I bought the CC9 (Chinese version of the Mi 9 Lite) when it came out and it's a very capable device for the price. Camera is standard Xiaomi fare and punches above its weight as at least the CC9 was mostly marketed for its camera capabilities and it showed, but it's clearly not $700 phone caliber.
+
+I didn't try the headphone jack as I only used it on Bluetooth but it supports Qualcomm AptX HD. Network reception will depend on where you live, your phone provider, and the bands it supports."
+Windows10,"I've found that WPS office is halfway decent and has mostly the same features as MS Word, including powerful PDF tools. The free version has popup ads very infrequently but there are ways to get rid of them."
+linuxhardware,Not a chance.
+hardware,I'm considering the same! How are ECC DDR4 prices? I know what for previous generations ECC RAM is dirt cheap given the massive server/datacentre surplus but DDR4 is still current technology.
+iamatotalpieceofshit,"COVID-19 (Coronavirus disease 2019) is the name of the disease the virus causes.
+
+The virus itself is called Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)."
+hardware,"Hope we get some low TDP socketed desktop variants of these, such as 45W H series parts. The efficiency of these things are off the charts, and could make for incredible living room PCs on the cheap."
+3DS,"As you said, it's outdated and suffers from severe hardware limitations. The 3DS simply doesn't have the memory required for modern websites.
+
+Even Nintendo themselves have largely given up on supporting more features and updating the browser beyond what's absolutely necessary to not open security holes in it. In an era where everyone has a better internet device with them at all times, the 3DS browser is pretty much obsolete."
+OriAndTheBlindForest,What's different compared to the first time?
+ThatLookedExpensive,There's still no reason for retail stores to not have prices shown with tax included unless it's to deliberately hide the costs until check out.
+OriAndTheBlindForest,"I'm pretty sure I've sequence broken a couple things during my playthrough (saved points to get Triple Jump as early as possible as that's easily the best skill in both the original and WotW) so I'm no longer sure whether it's intended or a bug whenever something weird happens anymore lmao, especially with how glitchy the game is."
+OriAndTheBlindForest,"I'll check it out later, thanks. Is the ""floor"" supposed to be invisible? I also noticed that the rope to the right of where I took the screenshot (where you have to go through a series of lasers) is also invisible, so Ori just appears to grab the air in there."
+oneplus,"Curved screen edges though. That's the main reason I decided to go for the 7T, even if they were the same price."
+OriAndTheBlindForest,I've been able to warp while airborne even. I think it's only during battles and story interactive cutscenes (like the stealth mission) that the warp function is disabled.
+OriAndTheBlindForest,"In the Wellspring, after beating it and clearing the water."
+emulation,"Huh weird, now when using the firmware menu to select a BIOS file it doesn't filter any file types, but a moment ago when I tried to load a GBA game without the BIOS it asked me to assign a firmware file and in the dialogue that pops up it asked for a GBA game file, and the only way to have the BIOS file appear in the dialogue was to have it as a ZIP file (as GBA games can be packaged in).
+
+Might be my own fault, sorry if I made you worry for nothing haha."
+emulation,"Hey Near, awesome work with byuu! Easily my new favourite multi system emulator on the PC now. However, could you make the process for assigning BIOS and firmware files a bit easier? As things are now it's not that intuitive, because the file selection dialogue doesn't show .bin files like other emulators and instead prefers pulling compressed ZIP files. Having a firmware folder in the root of the emulator package (together with filters etc.) where it copies the relevant assigned firmware files will also help organise this much better."
+furry_irl,"We remove rule breaking content only. Sometimes even the shittiest quality content stays up because they don't break the rules. It's up to the userbase to upvote or downvote submissions based on the merit of their content. 
+
+We as mods can only enforce the rules, and while the rules have some provisions against content abuse (repost spam, completely offtopic content, hateful submissions etc.), we can't control the upvotes each submission gets. That's on you and other users to do so. Even if we mods downvote all the stuff we don't like we're still just 10 votes against hundreds."
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+furry_irl,"The issue isn't that we don't care, but that people upvote literally anything regardless of the quality of the content. 
+
+Start by downvoting and reporting reposts and other low effort content, we can't catch everything all the time."
+hardware,"What's with manufacturers naming everything ""A500""? Does that particular sequence of letters and numbers have any special meaning?"
+hardware,"The X570 draws more power than most other dedicated chipsets, as it's a modified Zen 2 IO die that provides the same IO as the CPU itself."
+hardware,I wasn't aware they were this far caught up already. Give them another 5 years and they will be in the bleeding edge together with the rest of the pack. Exciting times.
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+hardware,"The 1050Ti also exploded in popularity during the crypto mining craze, as they were the only graphics cards left that weren't efficient or useful enough for mining. I managed to snatch a ""cheap"" OEM 1060 3G during that time for my new build but the 1050Ti was pretty much the only reasonably priced option available otherwise."
+hardware,It's still a perfectly capable laptop that can be docked/plugged to a monitor and KBM when not using it in portable mode.
+hardware,"This design might look better, but it ignores the underlying hardware. The keyboard is most likely a single block that can't be expanded under the trackpad, which by itself is also a single block that can't be cut around the corners under the panel.
+
+While I'd personally be willing to get rid of the function row keys to make more space for the controller, this device is aimed at power users and IT workers who will appreciate having physical F keys more than 3 more mm of space for the controller part."
+hardware,That used to be the case 10 years ago. Not anymore.
+politics,Sorry! fixed it now
+politics,"Gotcha, I'll change the time, thanks for the heads up!"
+politics,"Here are the times each states' polls will be closing. All times listed are in EST.
+
+Alabama: 8:00 PM
+
+Arkansas: 8:30 PM
+
+California: 11 PM
+
+Colorado: 9 PM
+
+Maine: 8 PM
+
+Massachusetts: 8 PM
+
+Minnesota: 9 PM
+
+North Carolina: 7:30 PM
+
+Oklahoma: 8 PM
+
+Tennessee: 8:00 PM (**Nashville changed to 11:00 PM**)
+
+Texas: 8 PM, except for El Paso and Hudspeth counties, where polls close at 9 PM
+
+Utah: 10 PM
+
+Vermont: 7 PM
+
+Virginia: 7 PM"
+politics,Thank you! We did a lot of prep work to make sure today goes smoothly.
+furry_irl,Whoever posts the image eats a ban. This will be your only warning.
+furry_irl,"Please tag suggestive content as NSFW next time, thanks"
+politics,"Too late, you have chosen the chaos candidate!"
+politics,"Given how much effort and money he's poured into the state, this might be his little trophy he can take home when all is said and done haha
+
+Even if he does well in SC I don't see him lasting much longer than that."
+politics,Polls close at around 7PM EST. We should start hearing some results shortly after that.
+politics,He's focusing on Super Tuesday onwards.
+NintendoSwitch,"Arena is made on Unity, and the Switch SDK has native support for it. Porting should be trivial, question is whether the Android version is being made to support a portrait view by default and that could prove to be a hurdle for a Switch port."
+3DS,"Shantae was released as a GBC game a year after the GBA launched, so not many copies were made. It was also a North American exclusive."
+speedrun,Now *this* is the kind of event I'm into. It will be a long wait but it 'll be worth it for sure!
+suicidebywords,r/badwomensanatomy
+3DS,"There's also snes9x for the 3DS: https://github.com/bubble2k16/snes9x_3ds
+
+It's easier to use and more customisable. Just have the ROMs in the SD cards without needing to convert and inject them one by one. Works just the same or better as it's a mature emulator. Canoe (the official ARM emulator Nintendo uses for the VC and SNES Classic) has shown to have poorer accuracy than the likes of snes9x and bsnes.
+
+snes9x also supports many extension chips that the VC doesn't support, such as CX4 and SDD-1."
+3DS,"I got mine when Pokémon Black/White 2 launched and the first thing I thought about it was how bad DS games looked on the 3DS screen.
+
+I also got Ocarina of Time 3D as my ""pack-in game"" with the console so all was good in the end."
+NintendoSwitch,"I preordered a Japanese copy for my collection, which will take a while to ship to me. I already own ZX and ZXA in their original catridges and the previous compilation of the original 4 games for the NDS.
+
+MMZ is one of my favourite series of all time and seeing Capcom pay attention to it is a breath of fresh air. I don't particularly like MM and MMX, I'm just a big fan of Inti Creates' style, which MMZ embodies perfectly.
+
+Does this Legacy Collection have the DS compilation's Adventure Mode with the reduced difficulty 4 game gauntlet?"
+nintendo,"Alternatively you can play the game with one of the many community patches that are out there that fix everything from bugs to enemy balance to translation errors. Lufia II has one of the most vibrant communities on the SNES.
+
+I personally recommend [Frue Lufia](https://www.romhacking.net/hacks/4129/). It keeps everything as vanilla as possible while applying all sorts of fixes. It even removes regional censorship."
+nintendo,It was garbled because the translation text took more space than the Japanese original (it being one of those old games where 1 latin letter took the same space and memory as 1 kana) and it ended up overwriting the tilemap for the shrine when the game loaded.
+3DS,"Seems good. A good tell is the font used for the label on the back, where it says ""NTR-005 PAT PEND"". Knockoff cartridges usually have trouble reproducing this exact font."
+3DS,"Native means that it's able to run on bare metal without emulation, just like on a real console, what the hell does that have to do with needing a BIOS? GBARunner2 needs a BIOS file because it's a third party hypervisor and the BIOS is copyrighted.
+
+I'm done talking to you, I recommend you seek help with your anger issues."
+3DS,"There's an app called Checkpoint. It makes backups of any save file in the system, even NDS software. You can then move them to another hacked system and restore them there."
+3DS,You can play GBA games natively without VC injection through GBARunner2. Please read up on what you're talking about before you embarrass yourself.
+3DS,You can alternatively access the save without a cartridge inserted using homebrew tools like PKSM and transfer the Pokémon in it to the software's storage feature and from there transfer them to another Gen 6/7 game such as OR or USUM.
+3DS,The console can be taken apart easily to access the buttons. iFixit should have repair guides for your model so feel free give it a try. I would recommend not turning on the console while the fault persists so as to not cause any further liquid damage.
+3DS,"There isn't much online functionality on the 3DS that the Switch doesn't already cover better, but everything should still work for the foreseeable future. The console only reached EOL last year, and Nintendo usually doesn't switch off the service for those consoles until way past that. The 3DS still have a very active userbase so don't worry about losing access for the time being."
+3DS,It's a really nice console and I love the snappy buttons! They're more similar in feel to old Game Boys than to others in the 3DS family.
+3DS,"Depends a lot on what you want to use it for. A New3DS is pretty much required for SNES, PSX and MD/Genesis emulation. So if you only want to use the device to play native GBA, NDS and 3DS games then an old 3DS (preferably XL) is fine.
+
+The New 3DS is my favourite emulation platform for a lot of reasons, starting with ease of use, tight controls, native 240p screen with vertical RGB subpixels that create a natural scanline effect on old games, and tons of homebrew available to manage your software and saves. And as I said, the console runs GBA and NDS games natively off the SD card (with nds bootstrap and GBARunner) which is a unique feature of the platform you won't get anywhere else.
+
+I recommend getting an XL model regardless as GBA and NDS games look tiny in the original small model."
+furry_irl,"Cropped yiff contains neither suggestive language nor explicit imagery. This one has the former.
+
+We also sometimes remove cropped yiff that isn't properly cropped or is too obvious."
+furry_irl,"Please tag suggestive content as NSFW next time, thanks!"
+furry_irl,[Sauce: 虎库里儿](https://twitter.com/HKL9917462/status/1230506451879235585)
+worldnews,Chinese-speaking Mexican radical islamic terrorists who are good at hacking
+politics,He also has the mormons following him to the end of the world if needed.
+politics,"20 is XX, 50 is L"
+politics,"The app was only used to report the results, the counting is done on paper, which they're collating right now."
+ChoosingBeggars,That's 7.76 USD. Not too bad compared to the rest of the world.
+politics,Gotta love it when Kentucky decides the legislative agenda for the whole country and has veto power over everything.
+furry_irl,How can it be yiff if it's not furry?
+hardware,"Yeah, back in the day I swapped my HD4870 for a HD7750 despite them being very similar in performance simply because I was getting tired of the terrible fan noise of the 4870. Not hard to understand."
+furry_irl,"The thing with freeform entries is that there's a myriad of ways (and typos) to say the same thing, and the data becomes extremely hard to collate."
+furry_irl,"Hyenas are feliformes together with cats and mongooses, so I guess kinda sorta?
+
+I'll forward this to the modteam at large."
+furry_irl,"""Other feline"" 🤔"
+worldnews,"To be fair, trees have a shitty survival rate even in the wild. That's why they produce millions of seeds over their lifetimes and the world still isn't covered in them."
+furry_irl,"Hi, your comment was automatically filtered by the sitewide spam filter. Next time please refrain from using link shorteners in order to avoid the spam filter, thanks!"
+worldnews,"KLM has only suspended flights to Wuhan, Hangzhou, Xiamen and Chongqing. All other destinations are still on schedule, including Beijing and Shanghai, although the latter has been reduced from 11 to 7 flights weekly."
+worldnews,"This is a live feed we put up for convenience, not a megathread, so they're not mutually excusive :)
+
+Regular submission rules, such as forbidding repeated coverage of the same case, still applies though."
+furry_irl,"Please tag suggestive content as NSFW next time, thanks."
+worldnews,"The issue is when people who have never even been to China are being pressured to wear masks because of them being Asian, it flares up the same kind of casual racism that affected the community back during SARS."
+mildlyfurry,They aren't supposed to be visible
+worldnews,"It was Mao the one who coined the term ""Third World"" within the Cold War context of the day. First world was the US and their capitalist allies, the Second World the USSR and its socialist allies, and the ""non aligned"" Third World that didn't want to take part in the first two, with varying levels of success."
+worldnews,There were republicans willing to oppose him. They just aren't republicans anymore. Just look at Justin Amash.
+NintendoSwitch,The Switch is not powerful enough for runahead (the method Retroarch snes9x uses for lag reduction)
+SuperMetroid,"30 super missiles will do the trick. If you don't have enough, save them for when he turns red and start with regular charge ice wave plasma shots."
+hardware,LTT does reviews from a consumer perspective. I doubt Pixar will consider procurement based on what Linus has to say.
+NintendoSwitch,Literally Yo Kai Watch.
+politics,It has certainly helped me put my fast food eating habits into perspective.
+vore_irl,"This post has been removed for being extremely gross, distasteful, etc."
+politics,You pay for the entirety of it. Your employer simply pays you $450 less in salary than they could.
+furry_irl,Before I became a degenerate.
+furry_irl,"Apologies for the inconvenience, I've gone ahead and approved it 👍"
+furry_irl,"We have reiterated time and time again that karma has zero bearing on whether a submission breaks the rules or not, not in this subreddit nor in any other in this entire site. You're always welcome to modmail us with your concerns but this thread isn't the place for this."
+furry_irl,"Congratulations u/SimStart and u/wbud100 on joining the modteam!
+
+Small announcement this time, SimStart will be joining us to help out with subreddit duties while wbud100 has and will be handling our ever growing community chat. Everyone give them a warm welcome, and please go easy on them :3c"
+hardware,The 30-60 fps range of PC gaming is a wasteland of microstutters and screen tearing that make you wish you'd rather be playing at triple buffered 30fps instead. 40-60Hz FreeSync is better than nothing.
+hardware,"Far from it, the Radeon R9 Nano and the Radeon VII all had normal fan designs."
+hardware,You don't need 8 channels for workstation loads.
+politics,That didn't stop Obama though. Castro was simply not appealing enough as a whole.
